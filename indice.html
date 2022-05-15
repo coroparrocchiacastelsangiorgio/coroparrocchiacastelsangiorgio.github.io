@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="description"
+        content="Indice Canti - Coro Parrocchia Santa Maria delle Grazie e Santa Croce, Castel San Giorgio (SA)">
+    <meta name="keywords"
+        content="coro,parrocchiale,parrocchia,santa,maria,grazie,croce,castel,giorgio,salerno,canti,indice">
+    <title>Indice Canti</title>
+    <style>
+        body {
+            padding: 1em;
+        }
+        .lista-canti {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .elemento-lista-canti {
+            padding-bottom: 1em;
+        }
+
+        .link-lista-canti {
+            color: black;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <a href="index.html">Torna alla pagina principale</a>
+    <h1>Indice Canti</h1>
+
+    <input type="text" id="barra-ricerca-canti" onkeyup="ricerca()" placeholder="Ricerca...">
+
+    <ul id="lista-canti" class="lista-canti">
+        <li class="elemento-lista-canti"><a class="link-lista-canti"></a></li>
+    </ul>
+
+    <script src="js/indice.js"></script>
+</body>
+
+</html>

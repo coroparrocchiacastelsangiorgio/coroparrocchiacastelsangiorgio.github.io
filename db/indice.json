@@ -1,0 +1,41 @@
+[
+    {
+        "id": "accogli-i-nostri-doni-buttazzo",
+        "titolo": "Accogli i nostri doni (Buttazzo)",
+        "tag": [
+            "offertorio"
+        ]
+    },
+    {
+        "id": "accogli-signore-i-nostri-doni",
+        "titolo": "Accogli Signore i nostri doni (Gen)",
+        "tag": [
+            "offertorio"
+        ]
+    },
+    {
+        "id": "acqua-siamo-noi",
+        "titolo": "Acqua siamo noi",
+        "tag": [
+            "inizio",
+            "fine"
+        ]
+    },
+    {
+        "id": "ad-una-voce",
+        "titolo": "Ad una voce",
+        "tag": [
+            "comunione",
+            "ringraziamento"
+        ]
+    },
+    {
+        "id": "adoro-te",
+        "titolo": "Adoro Te",
+        "tag": [
+            "adorazione",
+            "comunione",
+            "ringraziamento"
+        ]
+    }
+]
