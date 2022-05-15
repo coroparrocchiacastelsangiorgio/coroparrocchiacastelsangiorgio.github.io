@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', mostraindice);
 
 
 function mostraindice() {
-    fetch('db/indice.json')
+    fetch('https://coroparrocchiacastelsangiorgio.github.io/db/indice.json')
         .then(response => response.text())
         .then(data => {
             indicejson = JSON.parse(data);
