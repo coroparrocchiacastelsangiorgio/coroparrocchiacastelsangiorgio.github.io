@@ -13,6 +13,7 @@
         body {
             padding: 1em;
         }
+
         .lista-canti {
             list-style: none;
             padding-left: 0;
@@ -30,10 +31,19 @@
         .tag-lista-canti {
             display: none;
         }
+
+        #to-top {
+            background-color: white;
+            position: fixed;
+            bottom: 1em;
+            right: 1em;
+        }
+
     </style>
 </head>
 
 <body>
+    <div id="top"></div>
     <a href="index.html">Torna alla pagina principale</a>
     <h1>Indice Canti</h1>
 
@@ -42,6 +52,8 @@
     <ul id="lista-canti" class="lista-canti">
         <li class="elemento-lista-canti"><a class="link-lista-canti"></a><span class="tag-lista-canti"></span></li>
     </ul>
+
+    <div id="to-top"><a href="#top">Torna su</a></div>
 
     <script src="js/indice.js"></script>
 </body>
