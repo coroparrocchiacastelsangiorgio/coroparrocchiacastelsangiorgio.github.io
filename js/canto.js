@@ -4,10 +4,14 @@ function mostracanto() {
     const urlParams = new URLSearchParams(window.location.search);
     if (urlParams.has('id')) {
         id = urlParams.get('id');
-        fetch('https://coroparrocchiacastelsangiorgio.github.io/db/metadati/' + id + '.json')
+        fetch('https://coroparrocchiacastelsangiorgio.github.io/db/indice.json')
             .then(response => response.text())
             .then(data => {
-                metadatijson = JSON.parse(data);
+                indicejson = JSON.parse(data);
+                // cerca il canto nell'indice
+                metadatijson = indicejson.find(canto => {
+                    return canto.id == id;
+                });
                 // popola i metadati
                 h1 = document.getElementById("titolo");
                 h1.textContent = metadatijson.titolo;
