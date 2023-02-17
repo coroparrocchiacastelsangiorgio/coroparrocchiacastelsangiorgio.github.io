@@ -1,0 +1,27 @@
+[{ "datamessa": "19 febbraio 2023",
+  "nome": "",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "amo"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Il Signore &egrave; buono e grande nell&#39;amore"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "benedici-il-signore-anima-mia"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "inno-alla-carita"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "le-tue-meraviglie"
+  }
+]
+}]

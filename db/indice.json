@@ -37,5 +37,35 @@
             "comunione",
             "ringraziamento"
         ]
+    },
+    {
+        "id": "amo",
+        "titolo": "Amo",
+        "tag": [
+            "inizio",
+            "fine"
+        ]
+    },
+    {
+        "id": "benedici-il-signore-anima-mia",
+        "titolo": "Benedici il Signore anima mia",
+        "tag": [
+            "offertorio",
+            "pasqua"
+        ]
+    },
+    {
+        "id": "inno-alla-carita",
+        "titolo": "Inno alla Carit&agrave;",
+        "tag": [
+            "comunione"
+        ]
+    },
+    {
+        "id": "le-tue-meraviglie",
+        "titolo": "Le tue Meraviglie",
+        "tag": [
+            "fine"
+        ]
     }
 ]

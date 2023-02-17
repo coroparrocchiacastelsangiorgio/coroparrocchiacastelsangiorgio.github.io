@@ -7,14 +7,49 @@
     <meta name="description" content="Coro Parrocchia Santa Maria delle Grazie e Santa Croce, Castel San Giorgio (SA)">
     <meta name="keywords" content="coro,parrocchiale,parrocchia,santa,maria,grazie,croce,castel,giorgio,salerno,canti">
     <title>Coro Parrocchiale</title>
+    <style>
+        body {
+            padding: 1em;
+        }
+
+        #to-top {
+            background-color: white;
+            position: fixed;
+            bottom: 1em;
+            right: 1em;
+        }
+    </style>
 </head>
 
-<body style="padding: 1em;">
+<body>
+
 <h1>Coro Parrocchia "Santa Maria delle Grazie e Santa Croce"<br/>Castel San Giorgio (SA)</h1>
-<h2><a href="tutti-canti.pdf">Tutti i canti (PDF)</a></h2>
-<h2><a href="indice.html">Indice Canti</a></h2>
-<!--<h2><a href="oggi.html">Messa del Giorno</a></h2>-->
+
+<h2><a href="libro.html">Libro dei Canti</a></h2>
+
+<h2>Messa del Giorno</h2>
+<div class="oggi-parent-div">
+<div class="oggi-div">
+    <h3 class="oggi-data-h3"></h3>
+    <h4 class="oggi-nome-h3"></h4>
+    <h4 class="oggi-sottotitolo-h3"></h4>
+
+    <h4><a class="oggi-liturgia-a" href="https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=">Liturgia (link esterno)</a></h4>
+
+    <div class="oggi-canto-div">
+        <h4 class="oggi-canto-momento-h4"></h4>
+        <h4 class="oggi-canto-titolo-h4"></h4>
+        <p class="oggi-canto-testo-p"></p>
+    </div>
+</div>
+</div>
+
 <!--<h2><a href="archivio.html">Archivio Messe</a></h2>-->
+
+<div id="to-top"><a href="#top">Torna su</a></div>
+
+<script src="js/oggi.js"></script>
+
 </body>
 
 </html>
