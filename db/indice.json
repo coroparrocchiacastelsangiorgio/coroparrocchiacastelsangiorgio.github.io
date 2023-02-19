@@ -56,7 +56,7 @@
     },
     {
         "id": "inno-alla-carita",
-        "titolo": "Inno alla Carit&agrave;",
+        "titolo": "Inno alla Carità",
         "tag": [
             "comunione"
         ]
@@ -66,6 +66,34 @@
         "titolo": "Le tue Meraviglie",
         "tag": [
             "fine"
+        ]
+    },
+    {
+        "id": "io-non-sono-degno",
+        "titolo": "Io non sono degno",
+        "tag": [
+            "ceneri", "defunti"
+        ]
+    },
+    {
+        "id": "padre-buono",
+        "titolo": "Padre buono",
+        "tag": [
+            "inizio", "ceneri", "defunti"
+        ]
+    },
+    {
+        "id": "se-mi-accogli",
+        "titolo": "Se m'accogli",
+        "tag": [
+            "offertorio", "defunti"
+        ]
+    },
+    {
+        "id": "symbolum-77",
+        "titolo": "Symbolum 77 (Tu sei la mia vita)",
+        "tag": [
+            "comunione"
         ]
     }
 ]
