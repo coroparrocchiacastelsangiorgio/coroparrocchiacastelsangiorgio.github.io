@@ -95,5 +95,40 @@
         "tag": [
             "comunione"
         ]
+    },
+    {
+        "id": "scusa-signore",
+        "titolo": "Scusa Signore",
+        "tag": [
+            "defunti"
+        ]
+    },
+    {
+        "id": "eccomi",
+        "titolo": "Eccomi",
+        "tag": [
+            "defunti"
+        ]
+    },
+    {
+        "id": "il-signore-e-la-mia-salvezza",
+        "titolo": "Il Signore è la mia salvezza",
+        "tag": [
+            "defunti"
+        ]
+    },
+    {
+        "id": "il-signore-e-il-mio-pastore",
+        "titolo": "Il Signore è il mio pastore",
+        "tag": [
+            "defunti"
+        ]
+    },
+    {
+        "id": "io-credo-risorgero",
+        "titolo": "Io credo risorgerò",
+        "tag": [
+            "defunti"
+        ]
     }
 ]
