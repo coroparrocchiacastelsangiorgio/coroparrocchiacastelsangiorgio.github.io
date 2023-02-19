@@ -5,7 +5,6 @@ function caricamessadelgiorno() {
         .then(response1 => response1.text())
         .then(data1 => {
             datamessa = JSON.parse(data1);
-            console.log(datamessa);
             fetch("https://coroparrocchiacastelsangiorgio.github.io/db/storico-messe/" + datamessa + ".json")
                 .then(response2 => response2.text())
                 .then(data2 => {
@@ -34,7 +33,6 @@ function caricamessadelgiorno() {
                             divmomento = divmomenti.querySelectorAll(".momento-div")[j];
                             divmomento.querySelector(".nome-momento").textContent = infomomento.momento;
                             if ("idcanto" in infomomento) {
-                                console.log(infomomento.idcanto);
                                 popolatitolocanto(i, j, infomomento.idcanto);
                                 popolatestocanto(i, j, infomomento.idcanto);
                             }
@@ -67,7 +65,6 @@ function popolatitolocanto(imessa, jcanto, idcanto) {
             metadatijson = indicejson.find(canto => {
                 return canto.id == idcanto;
             });
-            console.log(metadatijson);
             dapopolare = document.querySelectorAll(".messa-div")[imessa].querySelectorAll(".momento-div")[jcanto];
             dapopolare.querySelector(".titolo-canto").textContent = metadatijson.titolo;
         }
