@@ -130,5 +130,33 @@
         "tag": [
             "defunti"
         ]
+    },
+    {
+        "id": "come-grande-il-tuo-amore",
+        "titolo": "Com'è grande il tuo amore",
+        "tag": [
+            "quaresima"
+        ]
+    },
+    {
+        "id": "il-nostro-cuore-offriamo-a-te",
+        "titolo": "Il nostro cuore offriamo a Te",
+        "tag": [
+            "offertorio"
+        ]
+    },
+    {
+        "id": "guidati-nel-deserto",
+        "titolo": "Guidati nel deserto",
+        "tag": [
+            "quaresima"
+        ]
+    },
+    {
+        "id": "cristo-gesu-salvatore",
+        "titolo": "Cristo Gesù salvatore",
+        "tag": [
+            "quaresima"
+        ]
     }
 ]

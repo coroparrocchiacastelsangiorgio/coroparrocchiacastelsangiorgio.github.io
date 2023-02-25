@@ -1,0 +1,27 @@
+[{ "datamessa": "26 febbraio 2023",
+  "nome": "Prima Domenica di Quaresima",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "come-grande-il-tuo-amore"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Perdonaci, Signore: abbiamo peccato"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "il-nostro-cuore-offriamo-a-te"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "guidati-nel-deserto"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "cristo-gesu-salvatore"
+  }
+]
+}]
