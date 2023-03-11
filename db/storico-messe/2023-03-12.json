@@ -1,0 +1,31 @@
+[{ "datamessa": "5 marzo 2023",
+  "nome": "Seconda Domenica di Quaresima",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "come-grande-il-tuo-amore"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Donaci, Signore, il tuo amore: in te speriamo"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "con-questo-pane-con-questo-vino"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "e-bello-signore-stare-qui-con-te"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "le-tende"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "ti-seguiro"
+  }
+]
+}]
