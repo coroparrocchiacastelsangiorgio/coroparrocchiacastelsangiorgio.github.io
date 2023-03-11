@@ -1,5 +1,5 @@
-[{ "datamessa": "5 marzo 2023",
-  "nome": "Seconda Domenica di Quaresima",
+[{ "datamessa": "12 marzo 2023",
+  "nome": "Terza Domenica di Quaresima",
   "sottotitolo": "",
   "scaletta":
 [
@@ -9,23 +9,19 @@
   },
   {
     "momento": "Salmo",
-    "testocanto": "Donaci, Signore, il tuo amore: in te speriamo"
+    "testocanto": "Ascoltate oggi la voce del Signore, non indurite il vostro cuore"
   },
   {
     "momento": "Offertorio",
-    "idcanto": "con-questo-pane-con-questo-vino"
+    "idcanto": "ecco-quel-che-abbiamo"
   },
   {
     "momento": "Comunione",
-    "idcanto": "e-bello-signore-stare-qui-con-te"
+    "idcanto": "gesu-e-la-samaritana"
   },
   {
     "momento": "Fine",
-    "idcanto": "le-tende"
-  },
-  {
-    "momento": "Fine",
-    "idcanto": "ti-seguiro"
+    "idcanto": "su-ali-daquila"
   }
 ]
 }]
