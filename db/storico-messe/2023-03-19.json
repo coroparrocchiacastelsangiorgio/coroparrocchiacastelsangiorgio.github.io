@@ -1,0 +1,31 @@
+[{ "datamessa": "19 marzo 2023",
+  "nome": "Quarta Domenica di Quaresima",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "come-grande-il-tuo-amore"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Il Signore è il mio pastore: non manco di nulla"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "il-signore-e-il-mio-pastore"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "la-vera-luce"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "luce"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "rallegriamoci"
+  }
+]
+}]
