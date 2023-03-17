@@ -47,6 +47,13 @@
         ]
     },
     {
+        "id": "beati-coloro",
+        "titolo": "Beati coloro",
+        "tag": [
+            "defunti"
+        ]
+    },
+    {
         "id": "benedici-il-signore-anima-mia",
         "titolo": "Benedici il Signore anima mia",
         "tag": [
@@ -55,52 +62,39 @@
         ]
     },
     {
-        "id": "inno-alla-carita",
-        "titolo": "Inno alla Carità",
+        "id": "come-grande-il-tuo-amore",
+        "titolo": "Com'è grande il tuo amore",
         "tag": [
-            "comunione"
+            "ingresso",
+            "quaresima"
         ]
     },
     {
-        "id": "le-tue-meraviglie",
-        "titolo": "Le tue Meraviglie",
+        "id": "con-questo-pane-con-questo-vino",
+        "titolo": "Con questo pane, con questo vino",
         "tag": [
-            "fine"
+            "offertorio"
         ]
     },
     {
-        "id": "io-non-sono-degno",
-        "titolo": "Io non sono degno",
+        "id": "cristo-gesu-salvatore",
+        "titolo": "Cristo Gesù salvatore",
         "tag": [
-            "ceneri", "defunti"
+            "quaresima"
         ]
     },
     {
-        "id": "padre-buono",
-        "titolo": "Padre buono (Se noi bussiamo)",
+        "id": "e-bello-signore-stare-qui-con-te",
+        "titolo": "è bello Signore stare qui con Te",
         "tag": [
-            "inizio", "ceneri", "defunti"
+            "quaresima"
         ]
     },
     {
-        "id": "se-mi-accogli",
-        "titolo": "Se m'accogli",
+        "id": "ecco-quel-che-abbiamo",
+        "titolo": "Ecco quel che abbiamo",
         "tag": [
-            "offertorio", "defunti"
-        ]
-    },
-    {
-        "id": "symbolum-77",
-        "titolo": "Symbolum 77 (Tu sei la mia vita)",
-        "tag": [
-            "comunione"
-        ]
-    },
-    {
-        "id": "scusa-signore",
-        "titolo": "Scusa Signore",
-        "tag": [
-            "defunti"
+            "offertorio"
         ]
     },
     {
@@ -111,29 +105,15 @@
         ]
     },
     {
-        "id": "il-signore-e-la-mia-salvezza",
-        "titolo": "Il Signore è la mia salvezza",
+        "id": "gesu-e-la-samaritana",
+        "titolo": "Gesù e la Samaritana",
         "tag": [
-            "defunti"
+            "quaresima"
         ]
     },
     {
-        "id": "il-signore-e-il-mio-pastore",
-        "titolo": "Il Signore è il mio pastore",
-        "tag": [
-            "defunti"
-        ]
-    },
-    {
-        "id": "io-credo-risorgero",
-        "titolo": "Io credo risorgerò",
-        "tag": [
-            "defunti"
-        ]
-    },
-    {
-        "id": "come-grande-il-tuo-amore",
-        "titolo": "Com'è grande il tuo amore",
+        "id": "guidati-nel-deserto",
+        "titolo": "Guidati nel deserto",
         "tag": [
             "quaresima"
         ]
@@ -146,17 +126,131 @@
         ]
     },
     {
-        "id": "guidati-nel-deserto",
-        "titolo": "Guidati nel deserto",
+        "id": "il-signore-e-il-mio-pastore",
+        "titolo": "Il Signore è il mio pastore",
+        "tag": [
+            "defunti"
+        ]
+    },
+    {
+        "id": "il-signore-e-la-mia-salvezza",
+        "titolo": "Il Signore è la mia salvezza",
+        "tag": [
+            "defunti"
+        ]
+    },
+    {
+        "id": "inno-alla-carita",
+        "titolo": "Inno alla Carità",
+        "tag": [
+            "comunione"
+        ]
+    },
+    {
+        "id": "io-credo-risorgero",
+        "titolo": "Io credo risorgerò",
+        "tag": [
+            "defunti"
+        ]
+    },
+    {
+        "id": "io-non-sono-degno",
+        "titolo": "Io non sono degno",
+        "tag": [
+            "ceneri", "defunti"
+        ]
+    },
+    {
+        "id": "la-vera-luce",
+        "titolo": "La vera luce",
         "tag": [
             "quaresima"
         ]
     },
     {
-        "id": "cristo-gesu-salvatore",
-        "titolo": "Cristo Gesù salvatore",
+        "id": "le-tende",
+        "titolo": "Le tende",
         "tag": [
             "quaresima"
+        ]
+    },
+    {
+        "id": "le-tue-meraviglie",
+        "titolo": "Le tue Meraviglie",
+        "tag": [
+            "fine"
+        ]
+    },
+    {
+        "id": "luce",
+        "titolo": "Luce",
+        "tag": [
+            "quaresima",
+            "fine"
+        ]
+    },
+    {
+        "id": "nostra-gloria-e-la-croce",
+        "titolo": "Nostra gloria è la croce",
+        "tag": [
+            "quaresima",
+            "pasqua"
+        ]
+    },
+    {
+        "id": "padre-buono",
+        "titolo": "Padre buono (Se noi bussiamo)",
+        "tag": [
+            "inizio", "ceneri", "defunti"
+        ]
+    },
+    {
+        "id": "rallegriamoci",
+        "titolo": "Rallegriamoci",
+        "tag": [
+            "pasqua"
+        ]
+    },
+    {
+        "id": "scusa-signore",
+        "titolo": "Scusa Signore",
+        "tag": [
+            "defunti"
+        ]
+    },
+    {
+        "id": "se-mi-accogli",
+        "titolo": "Se m'accogli",
+        "tag": [
+            "offertorio", "defunti"
+        ]
+    },
+    {
+        "id": "su-ali-daquila",
+        "titolo": "Su ali d'aquila",
+        "tag": [
+            "fine"
+        ]
+    },
+    {
+        "id": "sulla-tua-parola",
+        "titolo": "Sulla Tua parola",
+        "tag": [
+            "ingresso"
+        ]
+    },
+    {
+        "id": "symbolum-77",
+        "titolo": "Symbolum 77 (Tu sei la mia vita)",
+        "tag": [
+            "comunione"
+        ]
+    },
+    {
+        "id": "ti-seguiro",
+        "titolo": "Ti seguirò",
+        "tag": [
+            "defunti"
         ]
     }
 ]
