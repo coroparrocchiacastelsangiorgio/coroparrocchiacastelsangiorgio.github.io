@@ -92,7 +92,7 @@
     },
     {
         "id": "e-bello-signore-stare-qui-con-te",
-        "titolo": "è bello Signore stare qui con Te",
+        "titolo": "È bello Signore stare qui con Te",
         "tag": [
             "quaresima"
         ]
@@ -208,6 +208,13 @@
         "titolo": "Misericordia sei",
         "tag": [
             "fine"
+        ]
+    },
+    {
+        "id": "nel-tuo-silenzio",
+        "titolo": "Nel tuo silenzio",
+        "tag": [
+            "pasqua"
         ]
     },
     {
