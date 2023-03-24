@@ -70,6 +70,13 @@
         ]
     },
     {
+        "id": "come-un-fiume",
+        "titolo": "Come un fiume",
+        "tag": [
+            "aspersione"
+        ]
+    },
+    {
         "id": "con-questo-pane-con-questo-vino",
         "titolo": "Con questo pane, con questo vino",
         "tag": [
@@ -107,6 +114,13 @@
     {
         "id": "gesu-e-la-samaritana",
         "titolo": "Gesù e la Samaritana",
+        "tag": [
+            "quaresima"
+        ]
+    },
+    {
+        "id": "gesu-ricordati-di-me",
+        "titolo": "Gesù ricordati di me",
         "tag": [
             "quaresima"
         ]
@@ -186,6 +200,13 @@
         "titolo": "Luce",
         "tag": [
             "quaresima",
+            "fine"
+        ]
+    },
+    {
+        "id": "misericordia-sei",
+        "titolo": "Misericordia sei",
+        "tag": [
             "fine"
         ]
     },
