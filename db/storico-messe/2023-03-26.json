@@ -1,0 +1,27 @@
+[{ "datamessa": "26 marzo 2023",
+  "nome": "Quinta Domenica di Quaresima",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "come-grande-il-tuo-amore"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Il Signore è bonta e misericordia, e misericordia."
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "accogli-i-nostri-doni-buttazzo"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "grida-forte-il-mio-nome"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "misericordia-sei"
+  }
+]
+}]
