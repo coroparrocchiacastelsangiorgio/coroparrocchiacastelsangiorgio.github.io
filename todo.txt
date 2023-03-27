@@ -1,8 +1,10 @@
 TODO:
 
-1) Aggiungere canti all'indice
+1) Aggiungere canti nuovi all'indice
 
-2) Creare vademecum per aggiungere nuovi canti
+2) Aggiungere tutti i canti del libretto piccolo di quaresima
+
+3) Creare vademecum per aggiungere nuovi canti
 
 Pagina: Archivio Messe
 

@@ -91,10 +91,24 @@
         ]
     },
     {
+        "id": "dio-ha-tanto-amato-il-mondo",
+        "titolo": "Dio ha tanto amato il mondo",
+        "tag": [
+            "quaresima", "giovedi", "pasqua"
+        ]
+    },
+    {
         "id": "e-bello-signore-stare-qui-con-te",
         "titolo": "È bello Signore stare qui con Te",
         "tag": [
             "quaresima"
+        ]
+    },
+    {
+        "id": "e-giunta-lora",
+        "titolo": "È giunta l'ora",
+        "tag": [
+            "giovedi"
         ]
     },
     {
@@ -109,6 +123,13 @@
         "titolo": "Eccomi",
         "tag": [
             "defunti"
+        ]
+    },
+    {
+        "id": "genti-tutte",
+        "titolo": "Genti tutte",
+        "tag": [
+            "giovedi", "adorazione"
         ]
     },
     {
@@ -168,6 +189,13 @@
         ]
     },
     {
+        "id": "insieme-a-te",
+        "titolo": "Insieme a Te",
+        "tag": [
+            "comunione"
+        ]
+    },
+    {
         "id": "io-credo-risorgero",
         "titolo": "Io credo risorgerò",
         "tag": [
@@ -179,6 +207,13 @@
         "titolo": "Io non sono degno",
         "tag": [
             "ceneri", "defunti"
+        ]
+    },
+    {
+        "id": "io-vi-do-un-grande-esempio",
+        "titolo": "Io vi do un grande esempio",
+        "tag": [
+            "giovedi"
         ]
     },
     {
@@ -240,6 +275,20 @@
         ]
     },
     {
+        "id": "padre-mio",
+        "titolo": "Padre mio",
+        "tag": [
+            "inizio", "ceneri", "defunti"
+        ]
+    },
+    {
+        "id": "pane-di-vita-sei",
+        "titolo": "Pane di vita sei",
+        "tag": [
+            "comunione"
+        ]
+    },
+    {
         "id": "rallegriamoci",
         "titolo": "Rallegriamoci",
         "tag": [
@@ -261,6 +310,13 @@
         ]
     },
     {
+        "id": "servire-e-regnare",
+        "titolo": "Servire è regnare",
+        "tag": [
+            "offertorio", "giovedi"
+        ]
+    },
+    {
         "id": "su-ali-daquila",
         "titolo": "Su ali d'aquila",
         "tag": [
@@ -279,6 +335,13 @@
         "titolo": "Symbolum 77 (Tu sei la mia vita)",
         "tag": [
             "comunione"
+        ]
+    },
+    {
+        "id": "tantum-ergo",
+        "titolo": "Tantum ergo",
+        "tag": [
+            "adorazione", "giovedi"
         ]
     },
     {
