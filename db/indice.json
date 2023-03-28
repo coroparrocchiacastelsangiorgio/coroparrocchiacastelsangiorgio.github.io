@@ -39,6 +39,13 @@
         ]
     },
     {
+        "id": "alleluia-il-signore-e-risorto",
+        "titolo": "Alleluia (Il Signore è risorto)",
+        "tag": [
+            "alleluia"
+        ]
+    },
+    {
         "id": "amo",
         "titolo": "Amo",
         "tag": [
@@ -126,6 +133,13 @@
         ]
     },
     {
+        "id": "esulta-il-cielo",
+        "titolo": "Esulta il cielo",
+        "tag": [
+            "pasqua"
+        ]
+    },
+    {
         "id": "genti-tutte",
         "titolo": "Genti tutte",
         "tag": [
@@ -144,6 +158,13 @@
         "titolo": "Gesù ricordati di me",
         "tag": [
             "quaresima"
+        ]
+    },
+    {
+        "id": "gloria-frisina-dio-ha-tanto-amato-il-mondo",
+        "titolo": "Gloria Frisina (Dio ha tanto amato il mondo)",
+        "tag": [
+            "gloria"
         ]
     },
     {
@@ -300,6 +321,13 @@
         "titolo": "Scusa Signore",
         "tag": [
             "defunti"
+        ]
+    },
+    {
+        "id": "resto-con-te",
+        "titolo": "Resto con Te",
+        "tag": [
+            "pasqua"
         ]
     },
     {
