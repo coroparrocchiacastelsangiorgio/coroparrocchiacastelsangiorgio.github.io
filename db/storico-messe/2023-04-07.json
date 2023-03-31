@@ -1,0 +1,41 @@
+[{ "datamessa": "7 aprile 2023",
+  "nome": "Venerdì Santo",
+  "sottotitolo": "",
+  "scaletta":
+
+
+
+  nella memoria
+  • ti saluto o croce santa
+  • vi consolerò
+  • ti seguirò
+  • davanti a questo amore
+  • mi arrendo al tuo amore
+  • Tantum ergo (-1 1⁄2 tono)
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "Nostra gloria è la croce di Cristo"
+  },
+  {
+    "momento": "Gloria",
+    "idcanto": "gloria-frisina"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Il tuo calice Signore è dono di salvezza"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "accogli-i-nostri-doni-buttazzo"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "grida-forte-il-mio-nome"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "misericordia-sei"
+  }
+]
+}]

@@ -1,0 +1,47 @@
+[{ "datamessa": "8 aprile 2023",
+  "nome": "Preconio Pasquale",
+  "sottotitolo": "Messa della Notte",
+  "scaletta":
+
+
+  Preconio pasquale
+  • SALMO 1: Manda il tuo spirito Signore (ton. originale)
+  • SALMO 3: Il canto del mare (-1 tono)
+  • SALMO 5: Attingeremo con gioia (ton. originale)
+  • Gloria Frisina (-1 tono)
+  • SALMO ALL’EPISTOLA: Questo è il giorno di Cristo Signore (-1 1⁄2 tono)
+  • Come un fiume (gen) (ton. originale)
+  • Nel tuo silenzio (gen) (ton. originale)
+  • Santo Frisina (-1 1⁄2 tono)
+  • Agnello di Dio Frisina (ton. originale)
+  • Resto con te (gen) (ton. originale)
+  • Resurrezione (gen) (- 1 tono)
+  • Cristo è risorto veramente (ton. originale)
+  • Le tue mani
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "Nostra gloria è la croce di Cristo"
+  },
+  {
+    "momento": "Gloria",
+    "idcanto": "gloria-frisina"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Il tuo calice Signore è dono di salvezza"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "accogli-i-nostri-doni-buttazzo"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "grida-forte-il-mio-nome"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "misericordia-sei"
+  }
+]
+}]

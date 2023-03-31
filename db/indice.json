@@ -296,6 +296,13 @@
         ]
     },
     {
+        "id": "osanna-all-altissimo",
+        "titolo": "Osanna all'Altissimo",
+        "tag": [
+            "pasqua"
+        ]
+    },
+    {
         "id": "padre-buono",
         "titolo": "Padre buono (Se noi bussiamo)",
         "tag": [
@@ -356,6 +363,13 @@
         "titolo": "Su ali d'aquila",
         "tag": [
             "fine"
+        ]
+    },
+    {
+        "id": "su-questo-altare",
+        "titolo": "Su questo altare",
+        "tag": [
+            "offertorio"
         ]
     },
     {
