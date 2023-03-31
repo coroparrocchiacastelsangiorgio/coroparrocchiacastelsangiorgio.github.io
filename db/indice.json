@@ -39,6 +39,13 @@
         ]
     },
     {
+        "id": "agnello-di-dio-miserere-nobis",
+        "titolo": "Agnello di Dio (Miserere Nobis)",
+        "tag": [
+            "agnello"
+        ]
+    },
+    {
         "id": "alleluia-il-signore-e-risorto",
         "titolo": "Alleluia (Il Signore è risorto)",
         "tag": [
@@ -172,7 +179,8 @@
         "titolo": "Gloria Frisina (Dio ha tanto amato il mondo)",
         "tag": [
             "gloria"
-        ]
+        ],
+        "tonalita": "-1 tono"
     },
     {
         "id": "grida-forte-il-mio-nome",
@@ -293,7 +301,8 @@
         "tag": [
             "quaresima",
             "pasqua"
-        ]
+        ],
+        "tonalita": "-1 tono"
     },
     {
         "id": "osanna-all-altissimo",

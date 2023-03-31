@@ -2,22 +2,6 @@
   "nome": "Giovedì Santo",
   "sottotitolo": "",
   "scaletta":
-
-
-
-  Nostra gloria è la croce di Cristo (- 1 tono)
-  • Gloria (-1 tono)
-  • SALMO: Il tuo calice Signore è dono di salvezza ( -1 tono)
-  • Gloria a te Signore (ton originale)
-  • Servire è regnare (ton. originale)
-  • Io vi do un grande esempio (ton. originale)
-  • Inno alla Carità (ton. originale)
-  • Santo
-  • Agnello di Dio
-  • Sulla tua parola (-1 tono)
-  • È giunta l’ora (ton. originale)
-  • Genti tutte (-1 1⁄2 tono)
-  • Tantum ergo (-1 1⁄2 tono)
 [
   {
     "momento": "Inizio",
@@ -32,16 +16,32 @@
     "testocanto": "Il tuo calice Signore è dono di salvezza"
   },
   {
+    "momento": "Lavanda dei piedi",
+    "idcanto": "servire-e-regnare"
+  },
+  {
+    "momento": "Lavanda dei piedi",
+    "idcanto": "io-vi-do-un-grande-esempio"
+  },
+  {
     "momento": "Offertorio",
-    "idcanto": "accogli-i-nostri-doni-buttazzo"
+    "idcanto": "inno-alla-carita"
   },
   {
     "momento": "Comunione",
-    "idcanto": "grida-forte-il-mio-nome"
+    "idcanto": "sulla-tua-parola"
   },
   {
     "momento": "Fine",
-    "idcanto": "misericordia-sei"
+    "idcanto": "e-giunta-lora"
+  },
+  {
+    "momento": "Deposizione nell'Altare",
+    "idcanto": "genti-tutte"
+  },
+  {
+    "momento": "Deposizione nell'Altare",
+    "idcanto": "tantum-ergo"
   }
 ]
 }]
