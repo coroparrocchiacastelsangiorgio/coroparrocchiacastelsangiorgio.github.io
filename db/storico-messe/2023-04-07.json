@@ -2,40 +2,34 @@
   "nome": "Venerdì Santo",
   "sottotitolo": "",
   "scaletta":
-
-
-
-  nella memoria
-  • ti saluto o croce santa
-  • vi consolerò
-  • ti seguirò
-  • davanti a questo amore
-  • mi arrendo al tuo amore
-  • Tantum ergo (-1 1⁄2 tono)
 [
   {
-    "momento": "Inizio",
-    "idcanto": "Nostra gloria è la croce di Cristo"
+    "momento": "",
+    "idcanto": "nella-memoria-ecco-luomo"
   },
   {
-    "momento": "Gloria",
-    "idcanto": "gloria-frisina"
+    "momento": "",
+    "idcanto": "ti-saluto-croce-santa"
   },
   {
-    "momento": "Salmo",
-    "testocanto": "Il tuo calice Signore è dono di salvezza"
+    "momento": "",
+    "idcanto": "vi-consolero"
   },
   {
-    "momento": "Offertorio",
-    "idcanto": "accogli-i-nostri-doni-buttazzo"
+    "momento": "",
+    "idcanto": "ti-seguiro"
   },
   {
-    "momento": "Comunione",
-    "idcanto": "grida-forte-il-mio-nome"
+    "momento": "",
+    "idcanto": "davanti-a-questo-amore"
   },
   {
-    "momento": "Fine",
-    "idcanto": "misericordia-sei"
+    "momento": "",
+    "idcanto": "mi-arrendo-al-tuo-amore"
+  },
+  {
+    "momento": "",
+    "idcanto": "tantum-ergo"
   }
 ]
 }]

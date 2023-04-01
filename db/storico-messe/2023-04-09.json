@@ -2,42 +2,38 @@
   "nome": "Pasqua",
   "sottotitolo": "Messa del Mattino",
   "scaletta":
-
-  Esulta il cielo
-  • Signore non disprezzi •
-  Gloria Frisina (-1 tono)
-  SALMO Questo è il giorno di Cristo Signore (-1 1⁄2 tono)
-  • Alleluia (gen)
-  Santo Frisina (-1 1⁄2 tono)
-  • Agnello di Dio Frisina (ton. originale)
-  • Resto con te (gen) (ton. originale)
-  • Cristo è risorto veramente (ton. originale)
-
   [
   {
- ,
-  "momento": "Inizio",
-    "idcanto": "Nostra gloria è la croce di Cristo"
+    "momento": "Inizio",
+    "idcanto": "esulta-il-cielo"
   },
   {
-    "momento": "Gloria",
-    "idcanto": "gloria-frisina"
+    "momento": "Signore Pietà",
+    "idcanto": "signore-non-disprezzi"
   },
+    {
+      "momento": "Gloria",
+      "idcanto": "gloria-frisina"
+    },
   {
     "momento": "Salmo",
-    "testocanto": "Il tuo calice Signore è dono di salvezza"
+    "testocanto": "questo-e-il-giorno-di-cristo-signore-salmo"
   },
+    {
+      "momento": "Offertorio",
+      "idcanto": "nel-tuo-silenzio"
+    },
   {
-    "momento": "Offertorio",
-    "idcanto": "accogli-i-nostri-doni-buttazzo"
+    "momento": "Agnello di Dio",
+    "idcanto": "agnello-di-dio-miserere-nobis"
   },
   {
     "momento": "Comunione",
-    "idcanto": "grida-forte-il-mio-nome"
+    "idcanto": "resto-con-te"
   },
   {
     "momento": "Fine",
-    "idcanto": "misericordia-sei"
+    "idcanto": "cristo-e-risorto-veramente"
   }
 ]
 }]

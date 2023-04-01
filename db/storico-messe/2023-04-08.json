@@ -2,46 +2,54 @@
   "nome": "Preconio Pasquale",
   "sottotitolo": "Messa della Notte",
   "scaletta":
-
-
-  Preconio pasquale
-  • SALMO 1: Manda il tuo spirito Signore (ton. originale)
-  • SALMO 3: Il canto del mare (-1 tono)
-  • SALMO 5: Attingeremo con gioia (ton. originale)
-  • Gloria Frisina (-1 tono)
-  • SALMO ALL’EPISTOLA: Questo è il giorno di Cristo Signore (-1 1⁄2 tono)
-  • Come un fiume (gen) (ton. originale)
-  • Nel tuo silenzio (gen) (ton. originale)
-  • Santo Frisina (-1 1⁄2 tono)
-  • Agnello di Dio Frisina (ton. originale)
-  • Resto con te (gen) (ton. originale)
-  • Resurrezione (gen) (- 1 tono)
-  • Cristo è risorto veramente (ton. originale)
-  • Le tue mani
 [
   {
-    "momento": "Inizio",
-    "idcanto": "Nostra gloria è la croce di Cristo"
+    "momento": "Salmo I",
+    "idcanto": "manda-il-tuo-spirito-signore-salmo"
+  },
+  {
+    "momento": "Salmo II",
+    "idcanto": "canto-del-mare-salmo"
+  },
+  {
+    "momento": "Salmo III",
+    "idcanto": "attingeremo-con-gioia-salmo"
   },
   {
     "momento": "Gloria",
     "idcanto": "gloria-frisina"
   },
   {
-    "momento": "Salmo",
-    "testocanto": "Il tuo calice Signore è dono di salvezza"
+    "momento": "Salmo all'Epistola",
+    "testocanto": "questo-e-il-giorno-di-cristo-signore-salmo"
+  },
+  {
+    "momento": "Aspersione",
+    "idcanto": "come-un-fiume"
   },
   {
     "momento": "Offertorio",
-    "idcanto": "accogli-i-nostri-doni-buttazzo"
+    "idcanto": "nel-tuo-silenzio"
+  },
+  {
+    "momento": "Agnello di Dio",
+    "idcanto": "agnello-di-dio-miserere-nobis"
   },
   {
     "momento": "Comunione",
-    "idcanto": "grida-forte-il-mio-nome"
+    "idcanto": "resto-con-te"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "resurrezione"
   },
   {
     "momento": "Fine",
-    "idcanto": "misericordia-sei"
+    "idcanto": "cristo-e-risorto-veramente"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "le-tue-mani-son-piene-di-fiori"
   }
 ]
 }]

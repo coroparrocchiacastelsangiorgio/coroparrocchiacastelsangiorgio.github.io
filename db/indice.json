@@ -40,7 +40,7 @@
     },
     {
         "id": "agnello-di-dio-miserere-nobis",
-        "titolo": "Agnello di Dio (Miserere Nobis)",
+        "titolo": "Agnello di Dio (Frisina)",
         "tag": [
             "agnello"
         ]
@@ -61,6 +61,14 @@
         ]
     },
     {
+        "id": "attingeremo-con-gioia-salmo",
+        "titolo": "Attingeremo con gioia (Salmo Pasquale)",
+        "tag": [
+            "salmo",
+            "pasqua"
+        ]
+    },
+    {
         "id": "beati-coloro",
         "titolo": "Beati coloro",
         "tag": [
@@ -72,6 +80,14 @@
         "titolo": "Benedici il Signore anima mia",
         "tag": [
             "offertorio",
+            "pasqua"
+        ]
+    },
+    {
+        "id": "canto-del-mare-salmo",
+        "titolo": "Canto del mare (Salmo Pasquale)",
+        "tag": [
+            "salmo",
             "pasqua"
         ]
     },
@@ -109,6 +125,13 @@
         "titolo": "Cristo Gesù salvatore",
         "tag": [
             "quaresima"
+        ]
+    },
+    {
+        "id": "davanti-a-questo-amore",
+        "titolo": "Davanti a questo Amore",
+        "tag": [
+            "adorazione"
         ]
     },
     {
@@ -157,7 +180,8 @@
         "id": "genti-tutte",
         "titolo": "Genti tutte",
         "tag": [
-            "giovedi", "adorazione"
+            "pasqua",
+            "giovedi"
         ]
     },
     {
@@ -175,8 +199,8 @@
         ]
     },
     {
-        "id": "gloria-frisina-dio-ha-tanto-amato-il-mondo",
-        "titolo": "Gloria Frisina (Dio ha tanto amato il mondo)",
+        "id": "gloria-frisina",
+        "titolo": "Gloria (Frisina)",
         "tag": [
             "gloria"
         ],
@@ -282,6 +306,21 @@
         ]
     },
     {
+        "id": "manda-il-tuo-spirito-signore-salmo",
+        "titolo": "Manda il Tuo Spirito Signore (Salmo Pasquale)",
+        "tag": [
+            "salmo",
+            "pasqua"
+        ]
+    },
+    {
+        "id": "mi-arrendo-al-tuo-amore",
+        "titolo": "Mi arrendo al Tuo Amore",
+        "tag": [
+            "adorazione"
+        ]
+    },
+    {
         "id": "misericordia-sei",
         "titolo": "Misericordia sei",
         "tag": [
@@ -291,6 +330,13 @@
     {
         "id": "nel-tuo-silenzio",
         "titolo": "Nel tuo silenzio",
+        "tag": [
+            "pasqua"
+        ]
+    },
+    {
+        "id": "nella-memoria-ecco-luomo",
+        "titolo": "Nella memoria (Ecco l'uomo)",
         "tag": [
             "pasqua"
         ]
@@ -333,8 +379,30 @@
         ]
     },
     {
+        "id": "questo-e-il-giorno-di-cristo-signore-salmo",
+        "titolo": "Questo è il giorno di Cristo Signore (Salmo Pasquale)",
+        "tag": [
+            "salmo",
+            "pasqua"
+        ]
+    },
+    {
         "id": "rallegriamoci",
         "titolo": "Rallegriamoci",
+        "tag": [
+            "natale"
+        ]
+    },
+    {
+        "id": "resto-con-te",
+        "titolo": "Resto con Te",
+        "tag": [
+            "pasqua"
+        ]
+    },
+    {
+        "id": "resurrezione",
+        "titolo": "Resurrezione (Che gioia ci hai dato)",
         "tag": [
             "pasqua"
         ]
@@ -344,13 +412,6 @@
         "titolo": "Scusa Signore",
         "tag": [
             "defunti"
-        ]
-    },
-    {
-        "id": "resto-con-te",
-        "titolo": "Resto con Te",
-        "tag": [
-            "pasqua"
         ]
     },
     {
@@ -365,6 +426,13 @@
         "titolo": "Servire è regnare",
         "tag": [
             "offertorio", "giovedi"
+        ]
+    },
+    {
+        "id": "signore-non-disprezzi",
+        "titolo": "Signore non disprezzi (Kyrie)",
+        "tag": [
+            "kyrie"
         ]
     },
     {
@@ -403,10 +471,24 @@
         ]
     },
     {
+        "id": "ti-saluto-croce-santa",
+        "titolo": "Ti saluto o Croce santa",
+        "tag": [
+            "venerdi"
+        ]
+    },
+    {
         "id": "ti-seguiro",
         "titolo": "Ti seguirò",
         "tag": [
             "defunti"
+        ]
+    },
+    {
+        "id": "vi-consolero",
+        "titolo": "Vi consolerò",
+        "tag": [
+            "venerdi"
         ]
     }
 ]
