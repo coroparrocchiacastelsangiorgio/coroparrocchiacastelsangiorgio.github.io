@@ -1,0 +1,23 @@
+[{ "datamessa": "16 aprile 2023",
+  "nome": "",
+  "sottotitolo": "",
+  "scaletta":
+  [
+  {
+    "momento": "Inizio",
+    "idcanto": "cantiamo-insieme-al-signore"
+  },
+    {
+      "momento": "Offertorio",
+      "idcanto": "nella-tua-presenza"
+    },
+  {
+    "momento": "Comunione",
+    "idcanto": "fiumi-di-misericordia"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "resurrezione"
+  }
+]
+}]

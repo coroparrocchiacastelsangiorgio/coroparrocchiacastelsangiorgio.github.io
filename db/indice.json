@@ -84,6 +84,13 @@
         ]
     },
     {
+        "id": "cantiamo-insieme-al-signore",
+        "titolo": "Cantiamo insieme al Signore",
+        "tag": [
+            "inizio"
+        ]
+    },
+    {
         "id": "canto-del-mare-salmo",
         "titolo": "Canto del mare (Salmo Pasquale)",
         "tag": [
@@ -174,6 +181,13 @@
         "titolo": "Esulta il cielo",
         "tag": [
             "pasqua"
+        ]
+    },
+    {
+        "id": "fiumi-di-misericordia",
+        "titolo": "Fiumi di Misericordia",
+        "tag": [
+            "comunione"
         ]
     },
     {
@@ -339,6 +353,13 @@
         "titolo": "Nella memoria (Ecco l'uomo)",
         "tag": [
             "pasqua"
+        ]
+    },
+    {
+        "id": "nella-tua-presenza",
+        "titolo": "Nella tua presenza",
+        "tag": [
+            "offertorio"
         ]
     },
     {
