@@ -1,0 +1,25 @@
+[{ "datamessa": "23 aprile 2023",
+  "nome": "San Giorgio Martire",
+  "sottotitolo": "",
+  "scaletta":
+  [
+  {
+    "momento": "Inizio",
+    "idcanto": "arderanno-sempre-i-nostri-cuori"
+  },
+{ "momento": "Salmo",
+"testocanto": "Mostraci Signore il sentiero della vita"},
+    {
+      "momento": "Offertorio",
+      "idcanto": "con-lofferta-di-gesu"
+    },
+  {
+    "momento": "Comunione",
+    "idcanto": "sei-tu-gesu"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "resta-qui-con-noi"
+  }
+]
+}]

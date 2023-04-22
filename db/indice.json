@@ -61,6 +61,13 @@
         ]
     },
     {
+        "id": "arderanno-sempre-i-nostri-cuori",
+        "titolo": "Arderanno sempre i nostri cuori",
+        "tag": [
+            "fine"
+        ]
+    },
+    {
         "id": "attingeremo-con-gioia-salmo",
         "titolo": "Attingeremo con gioia (Salmo Pasquale)",
         "tag": [
@@ -111,6 +118,13 @@
         "titolo": "Come un fiume",
         "tag": [
             "aspersione"
+        ]
+    },
+    {
+        "id": "con-lofferta-di-gesu",
+        "titolo": "Con l'offerta di Gesù",
+        "tag": [
+            "offertorio"
         ]
     },
     {
@@ -415,6 +429,13 @@
         ]
     },
     {
+        "id": "resta-qui-con-noi",
+        "titolo": "Resta qui con noi",
+        "tag": [
+            "fine"
+        ]
+    },
+    {
         "id": "resto-con-te",
         "titolo": "Resto con Te",
         "tag": [
@@ -440,6 +461,13 @@
         "titolo": "Se m'accogli",
         "tag": [
             "offertorio", "defunti"
+        ]
+    },
+    {
+        "id": "sei-tu-gesu",
+        "titolo": "Sei Tu Gesù",
+        "tag": [
+            "comunione", "pasqua"
         ]
     },
     {
