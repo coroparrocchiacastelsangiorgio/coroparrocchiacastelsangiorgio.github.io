@@ -6,23 +6,23 @@
     "scaletta": [
       {
         "momento": "Inizio",
-        "idcanto": ""
+        "idcanto": "verso-di-te"
       },
       {
         "momento": "Salmo",
-        "testocanto": ""
+        "testocanto": "Il Signore è il mio pastore, non manco di nulla"
       },
       {
         "momento": "Offertorio",
-        "idcanto": ""
+        "idcanto": "con-lofferta-di-gesu"
       },
       {
         "momento": "Comunione",
-        "idcanto": ""
+        "idcanto": "il-signore-e-il-mio-pastore"
       },
       {
         "momento": "Fine",
-        "idcanto": ""
+        "idcanto": "resta-accanto-a-me"
       }
     ]
   }
