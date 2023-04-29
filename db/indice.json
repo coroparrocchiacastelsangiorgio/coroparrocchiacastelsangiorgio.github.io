@@ -263,6 +263,13 @@
         ]
     },
     {
+        "id": "il-signore-e-il-mio-pastore-frisina",
+        "titolo": "Il Signore è il mio pastore (Frisina)",
+        "tag": [
+            "comunione", "salmo"
+        ]
+    },
+    {
         "id": "il-signore-e-la-mia-salvezza",
         "titolo": "Il Signore è la mia salvezza",
         "tag": [
@@ -436,6 +443,13 @@
         ]
     },
     {
+        "id": "resta-accanto-a-me",
+        "titolo": "Resta accanto a me",
+        "tag": [
+            "fine"
+        ]
+    },
+    {
         "id": "resta-qui-con-noi",
         "titolo": "Resta qui con noi",
         "tag": [
@@ -538,6 +552,13 @@
         "titolo": "Ti seguirò",
         "tag": [
             "defunti"
+        ]
+    },
+    {
+        "id": "verso-di-te",
+        "titolo": "Verso di Te",
+        "tag": [
+            "inizio"
         ]
     },
     {
