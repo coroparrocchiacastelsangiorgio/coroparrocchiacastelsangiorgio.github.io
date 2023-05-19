@@ -1,0 +1,33 @@
+[
+  {
+    "datamessa": "21 maggio 2023",
+    "nome": "Prime Comunioni",
+    "sottotitolo": "",
+    "scaletta": [
+      {
+        "momento": "Inizio",
+        "idcanto": "popoli-tutti"
+      },
+      {
+        "momento": "Salmo",
+        "testocanto": "Ascende il Signore tra canti di gioia"
+      },
+      {
+        "momento": "Offertorio",
+        "idcanto": "antica-eterna-danza"
+      },
+      {
+        "momento": "Comunione",
+        "idcanto": "sulla-tua-parola"
+      },
+      {
+        "momento": "Ringraziamento",
+        "idcanto": "incontrare-te"
+      },
+      {
+        "momento": "Fine",
+        "idcanto": "andate-per-le-strade"
+      }
+    ]
+  }
+]
