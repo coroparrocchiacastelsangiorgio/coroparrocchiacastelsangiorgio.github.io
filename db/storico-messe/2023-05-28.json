@@ -1,0 +1,41 @@
+[
+  {
+    "datamessa": "28 maggio 2023",
+    "nome": "Pentecoste",
+    "sottotitolo": "",
+    "scaletta": [
+      {
+        "momento": "Inizio",
+        "idcanto": "vieni-santo-spirito-di-dio"
+      },
+      {
+        "momento": "Salmo",
+        "testocanto": "Manda il tuo Spirito Signore a rinnovare la terra"
+      },
+      {
+        "momento": "Sequenza",
+        "idcanto": "vieni-santo-spirito"
+      },
+      {
+        "momento": "Offertorio",
+        "idcanto": "come-fuoco-vivo"
+      },
+      {
+        "momento": "Comunione",
+        "idcanto": "prodigio-damore"
+      },
+      {
+        "momento": "Fine",
+        "idcanto": "spirito-santo-dolce-presenza"
+      },
+      {
+        "momento": "Fine",
+        "idcanto": "manda-il-tuo-spirito"
+      },
+      {
+        "momento": "Fine",
+        "idcanto": "quando-lo-spirito-vive-in-me"
+      }
+    ]
+  }
+]
