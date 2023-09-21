@@ -1,48 +1,69 @@
 document.addEventListener('DOMContentLoaded', caricamessadelgiorno);
 
 function caricamessadelgiorno() {
-    fetch('https://coroparrocchiacastelsangiorgio.github.io/oggi.json')
-        .then(response1 => response1.text())
-        .then(data1 => {
-            datamessa = JSON.parse(data1);
-            fetch("https://coroparrocchiacastelsangiorgio.github.io/db/storico-messe/" + datamessa + ".json")
-                .then(response2 => response2.text())
-                .then(data2 => {
-                    elencomesse = JSON.parse(data2);
-                    divmesse = document.querySelector(".messe-div");
-                    divmessa = divmesse.querySelector(".messa-div");
-                    for (i = 1; i < elencomesse.length; i++) {
-                        nuovodiv = divmessa.cloneNode(true);
-                        divmesse.appendChild(nuovodiv);
+    cemessa = false;
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.has('data')) {
+        datamessa = urlParams.get('data');
+
+//function caricamessadelgiorno() {
+//    fetch('https://coroparrocchiacastelsangiorgio.github.io/oggi.json')
+//        .then(response1 => response1.text())
+//        .then(data1 => {
+//            datamessa = JSON.parse(data1);
+        fetch("https://coroparrocchiacastelsangiorgio.github.io/db/storico-messe/" + datamessa + ".json")
+            .then(response2 => response2.text())
+            .then(data2 => {
+                cemessa = true;
+                elencomesse = JSON.parse(data2);
+                divmesse = document.querySelector(".messe-div");
+                divmessa = divmesse.querySelector(".messa-div");
+                for (i = 1; i < elencomesse.length; i++) {
+                    nuovodiv = divmessa.cloneNode(true);
+                    divmesse.appendChild(nuovodiv);
+                }
+                for (i = 0; i < elencomesse.length; i++) {
+                    divmessa = divmesse.querySelectorAll(".messa-div")[i];
+                    messa = elencomesse[i];
+                    divmessa.querySelector(".data-messa").textContent = messa.datamessa;
+                    divmessa.querySelector(".nome-messa").textContent = messa.nome;
+                    divmessa.querySelector(".sottotitolo-messa").textContent = messa.sottotitolo;
+                    divmessa.querySelector(".link-liturgia").href += formatdatamessaperliturgia(datamessa);
+                    divmessa.querySelector(".link-liturgia").style.visibility = 'visible';
+                    divmomenti = divmessa.querySelector(".momenti");
+                    divmomento = divmomenti.querySelector(".momento-div");
+                    for (j = 1; j < messa.scaletta.length; j++) {
+                        nuovomomento = divmomento.cloneNode(true);
+                        divmomenti.appendChild(nuovomomento);
                     }
-                    for (i = 0; i < elencomesse.length; i++) {
-                        divmessa = divmesse.querySelectorAll(".messa-div")[i];
-                        messa = elencomesse[i];
-                        divmessa.querySelector(".data-messa").textContent = messa.datamessa;
-                        divmessa.querySelector(".nome-messa").textContent = messa.nome;
-                        divmessa.querySelector(".sottotitolo-messa").textContent = messa.sottotitolo;
-                        divmessa.querySelector(".link-liturgia").href += formatdatamessaperliturgia(datamessa);
-                        divmomenti = divmessa.querySelector(".momenti");
-                        divmomento = divmomenti.querySelector(".momento-div");
-                        for (j = 1; j < messa.scaletta.length; j++) {
-                            nuovomomento = divmomento.cloneNode(true);
-                            divmomenti.appendChild(nuovomomento);
+                    for (j = 0; j < messa.scaletta.length; j++) {
+                        infomomento = messa.scaletta[j];
+                        divmomento = divmomenti.querySelectorAll(".momento-div")[j];
+                        divmomento.querySelector(".nome-momento").textContent = infomomento.momento;
+                        if ("idcanto" in infomomento) {
+                            popolatitolocanto(i, j, infomomento.idcanto);
+                            popolatestocanto(i, j, infomomento.idcanto);
                         }
-                        for (j = 0; j < messa.scaletta.length; j++) {
-                            infomomento = messa.scaletta[j];
-                            divmomento = divmomenti.querySelectorAll(".momento-div")[j];
-                            divmomento.querySelector(".nome-momento").textContent = infomomento.momento;
-                            if ("idcanto" in infomomento) {
-                                popolatitolocanto(i, j, infomomento.idcanto);
-                                popolatestocanto(i, j, infomomento.idcanto);
-                            }
-                            if ("testocanto" in infomomento) {
-                                divmomento.querySelector(".testo-canto").innerHTML = infomomento.testocanto;
-                            }
+                        if ("testocanto" in infomomento) {
+                            divmomento.querySelector(".testo-canto").innerHTML = infomomento.testocanto;
                         }
                     }
-                });
-        });
+                }
+                document.querySelector("#nomessa").style.visibility = 'hidden';
+            });
+        if (!cemessa) {
+            document.querySelector("#nomessa").style.visibility = 'visible';
+            document.querySelector(".link-liturgia").style.visibility = 'hidden';
+        }
+        else {
+            alert("wee");
+            document.querySelector("#nomessa").style.visibility = 'hidden';
+        }
+    }
+    else {
+        document.querySelector("#nomessa").style.visibility = 'hidden';
+        document.querySelector(".link-liturgia").style.visibility = 'hidden';
+    }
 }
 
 function formatdatamessaperliturgia(datamessa) {

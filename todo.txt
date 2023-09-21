@@ -6,9 +6,6 @@ TODO:
 
 -- Un momento può includere anche più canti
 
--- oggi.json può essere una lista per mostrare più giorni
-
-
 -- Nuova Pagina: Archivio Messe
 
 Natale - 25 dicembre 2022 (al click mi fa vedere i testi di tutti i canti tipo messa del giorno)

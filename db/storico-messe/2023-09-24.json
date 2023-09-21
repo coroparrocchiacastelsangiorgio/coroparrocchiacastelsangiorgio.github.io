@@ -1,0 +1,29 @@
+[
+  {
+    "datamessa": "24 settembre 2023",
+    "nome": "",
+    "sottotitolo": "",
+    "scaletta": [
+      {
+        "momento": "Inizio",
+        "idcanto": "popoli-tutti"
+      },
+      {
+        "momento": "Salmo",
+        "testocanto": ""
+      },
+      {
+        "momento": "Offertorio",
+        "idcanto": "benediro"
+      },
+      {
+        "momento": "Comunione",
+        "idcanto": "dio-ha-tanto-amato-il-mondo"
+      },
+      {
+        "momento": "Fine",
+        "idcanto": "ti-lodero-ti-adorero-ti-cantero"
+      }
+    ]
+  }
+]
