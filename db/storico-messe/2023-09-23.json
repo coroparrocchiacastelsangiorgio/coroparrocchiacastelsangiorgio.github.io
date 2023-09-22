@@ -1,7 +1,7 @@
 [
   {
-    "datamessa": "24 settembre 2023",
-    "nome": "",
+    "datamessa": "23 settembre 2023",
+    "nome": "Anniversario Suor Karen",
     "sottotitolo": "",
     "scaletta": [
       {
@@ -14,7 +14,7 @@
       },
       {
         "momento": "Offertorio",
-        "idcanto": "benediro"
+        "idcanto": "quelli-che-amano-te"
       },
       {
         "momento": "Comunione",
@@ -22,7 +22,7 @@
       },
       {
         "momento": "Fine",
-        "idcanto": "andate-per-le-strade"
+        "idcanto": "ti-lodero-ti-adorero-ti-cantero"
       }
     ]
   }
