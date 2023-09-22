@@ -1,0 +1,25 @@
+[
+  {
+    "datamessa": "23 settembre 2023",
+    "nome": "Funerale",
+    "sottotitolo": "",
+    "scaletta": [
+      {
+        "momento": "Inizio",
+        "idcanto": "dallaurora-al-tramonto"
+      },
+      {
+        "momento": "Offertorio",
+        "idcanto": "ecco-quel-che-abbiamo"
+      },
+      {
+        "momento": "Comunione",
+        "idcanto": "mi-affido-a-te"
+      },
+      {
+        "momento": "Fine",
+        "idcanto": "su-ali-daquila"
+      }
+    ]
+  }
+]
