@@ -25,5 +25,32 @@
         "idcanto": "andate-per-le-strade"
       }
     ]
+  },
+  {
+    "datamessa": "24 settembre 2023",
+    "nome": "Anniversario Suor Karen",
+    "sottotitolo": "",
+    "scaletta": [
+      {
+        "momento": "Inizio",
+        "idcanto": "popoli-tutti"
+      },
+      {
+        "momento": "Salmo",
+        "testocanto": ""
+      },
+      {
+        "momento": "Offertorio",
+        "idcanto": "quelli-che-amano-te"
+      },
+      {
+        "momento": "Comunione",
+        "idcanto": "dio-ha-tanto-amato-il-mondo"
+      },
+      {
+        "momento": "Fine",
+        "idcanto": "ti-lodero-ti-adorero-ti-cantero"
+      }
+    ]
   }
 ]
