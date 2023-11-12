@@ -1,0 +1,27 @@
+[{ "datamessa": "12 novembre 2023",
+  "nome": "",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "popoli-tutti"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Ha sete di te Signore l'anima mia"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "frutto-della-nostra-terra"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "dallaurora-al-tramonto"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "vieni-e-seguimi"
+  }
+]
+}]
