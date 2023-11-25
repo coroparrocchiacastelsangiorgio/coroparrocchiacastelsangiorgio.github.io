@@ -1,0 +1,23 @@
+[{ "datamessa": "26 novembre 2023",
+  "nome": "Cristo Re dell'Universo",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "re-dei-re"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "segni-del-tuo-amore"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "cristo-re"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "re-di-gloria"
+  }
+]
+}]
