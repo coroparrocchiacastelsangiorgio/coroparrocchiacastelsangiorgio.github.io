@@ -61,6 +61,20 @@
         ]
     },
     {
+        "id": "andate-per-le-strade",
+        "titolo": "Andate per le strade",
+        "tag": [
+            "fine"
+        ]
+    },
+    {
+        "id": "antica-eterna-danza",
+        "titolo": "Antica eterna danza",
+        "tag": [
+            "offertorio"
+        ]
+    },
+    {
         "id": "arderanno-sempre-i-nostri-cuori",
         "titolo": "Arderanno sempre i nostri cuori",
         "tag": [
@@ -91,6 +105,13 @@
         ]
     },
     {
+        "id": "benediro",
+        "titolo": "Benedirò",
+        "tag": [
+            "offertorio"
+        ]
+    },
+    {
         "id": "cantiamo-insieme-al-signore",
         "titolo": "Cantiamo insieme al Signore",
         "tag": [
@@ -102,6 +123,13 @@
         "titolo": "Canto del mare (Salmo Pasquale)",
         "tag": [
             "salmo",
+            "pasqua"
+        ]
+    },
+    {
+        "id": "come-fuoco-vivo",
+        "titolo": "Come fuoco vivo",
+        "tag": [
             "pasqua"
         ]
     },
@@ -136,7 +164,7 @@
     },
     {
         "id": "cristo-e-risorto-veramente",
-        "titolo": "Cristo è risorto veramente",
+        "titolo": "Cristo è risorto veramente (Canto)",
         "tag": [
             "pasqua"
         ]
@@ -146,6 +174,20 @@
         "titolo": "Cristo Gesù salvatore",
         "tag": [
             "quaresima"
+        ]
+    },
+    {
+        "id": "cristo-re",
+        "titolo": "Cristo Re",
+        "tag": [
+            "re"
+        ]
+    },
+    {
+        "id": "dallaurora-al-tramonto",
+        "titolo": "Dall'aurora al tramonto",
+        "tag": [
+            "inizio"
         ]
     },
     {
@@ -202,6 +244,13 @@
         "titolo": "Fiumi di Misericordia",
         "tag": [
             "comunione"
+        ]
+    },
+    {
+        "id": "frutto-della-nostra-terra",
+        "titolo": "Frutto della nostra terra",
+        "tag": [
+            "offertorio"
         ]
     },
     {
@@ -284,6 +333,13 @@
         ]
     },
     {
+        "id": "incontrare-te",
+        "titolo": "Incontrare Te",
+        "tag": [
+            "comunione"
+        ]
+    },
+    {
         "id": "insieme-a-te",
         "titolo": "Insieme a Te",
         "tag": [
@@ -341,11 +397,25 @@
         ]
     },
     {
+        "id": "manda-il-tuo-spirito",
+        "titolo": "Manda il Tuo Spirito (Canto)",
+        "tag": [
+            "spirito"
+        ]
+    },
+    {
         "id": "manda-il-tuo-spirito-signore-salmo",
         "titolo": "Manda il Tuo Spirito Signore (Salmo Pasquale)",
         "tag": [
             "salmo",
             "pasqua"
+        ]
+    },
+    {
+        "id": "mi-affido-a-te",
+        "titolo": "Mi affido a Te",
+        "tag": [
+            "adorazione"
         ]
     },
     {
@@ -421,10 +491,31 @@
         ]
     },
     {
+        "id": "popoli-tutti",
+        "titolo": "Popoli tutti",
+        "tag": [
+            "inizio"
+        ]
+    },
+    {
         "id": "prodigio-damore",
         "titolo": "Prodigio d'amore",
         "tag": [
             "spirito"
+        ]
+    },
+    {
+        "id": "quando-lo-spirito-vive-in-me",
+        "titolo": "Qaundo lo Spirito vive in me",
+        "tag": [
+            "spirito"
+        ]
+    },
+    {
+        "id": "quelli-che-amano-te",
+        "titolo": "Quelli che amano Te",
+        "tag": [
+            "offertorio"
         ]
     },
     {
@@ -440,6 +531,20 @@
         "titolo": "Rallegriamoci",
         "tag": [
             "natale"
+        ]
+    },
+    {
+        "id": "re-dei-re",
+        "titolo": "Re dei Re",
+        "tag": [
+            "re"
+        ]
+    },
+    {
+        "id": "re-di-gloria",
+        "titolo": "Re di gloria",
+        "tag": [
+            "re"
         ]
     },
     {
@@ -471,6 +576,13 @@
         ]
     },
     {
+        "id": "rimanete-in-me",
+        "titolo": "Rimanete in me",
+        "tag": [
+            "pasqua"
+        ]
+    },
+    {
         "id": "scusa-signore",
         "titolo": "Scusa Signore",
         "tag": [
@@ -481,7 +593,15 @@
         "id": "se-mi-accogli",
         "titolo": "Se m'accogli",
         "tag": [
-            "offertorio", "defunti"
+            "offertorio",
+            "defunti"
+        ]
+    },
+    {
+        "id": "segni-del-tuo-amore",
+        "titolo": "Segni del tuo amore",
+        "tag": [
+            "offertorio"
         ]
     },
     {
@@ -503,6 +623,13 @@
         "titolo": "Signore non disprezzi (Kyrie)",
         "tag": [
             "kyrie"
+        ]
+    },
+    {
+        "id": "spirito-santo-dolce-presenza",
+        "titolo": "Sprito Santo dolce presenza",
+        "tag": [
+            "spirito"
         ]
     },
     {
@@ -541,6 +668,13 @@
         ]
     },
     {
+        "id": "ti-lodero-ti-adorero-ti-cantero",
+        "titolo": "Ti loderò, ti adorerò, ti canterò",
+        "tag": [
+            "fine"
+        ]
+    },
+    {
         "id": "ti-saluto-croce-santa",
         "titolo": "Ti saluto o Croce santa",
         "tag": [
@@ -566,6 +700,34 @@
         "titolo": "Vi consolerò",
         "tag": [
             "venerdi"
+        ]
+    },
+    {
+        "id": "vieni-e-seguimi",
+        "titolo": "Vieni e seguimi",
+        "tag": [
+            "fine"
+        ]
+    },
+    {
+        "id": "vieni-santo-spirito",
+        "titolo": "Vieni Santo Spirito",
+        "tag": [
+            "spirito"
+        ]
+    },
+    {
+        "id": "vieni-santo-spirito-di-dio",
+        "titolo": "Vieni Santo Spirito di Dio",
+        "tag": [
+            "spirito"
+        ]
+    },
+    {
+        "id": "vivere-la-vita",
+        "titolo": "Vivere la vita",
+        "tag": [
+            "inizio"
         ]
     }
 ]
