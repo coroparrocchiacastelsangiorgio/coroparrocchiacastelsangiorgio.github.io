@@ -1,0 +1,35 @@
+[{ "datamessa": "3 dicembre 2023",
+  "nome": "I domenica di Avvento",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "prepariamo-la-via"
+  },
+  {
+  "momento": "Accensione candela",
+  "idcanto": "isaia-11"
+  },
+  {
+  "momento": "Signore Pietà",
+  "idcanto": "signore-che-vieni-a-visitare"
+  },
+  {
+    "momento": "Salmo",
+    "idcanto": "Signore, fa splendere il tuo volto e noi saremo salvi"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "frutto-della-nostra-terra"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "come-laurora-verrai"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "maranatha-vieni-signor"
+  }
+]
+}]
