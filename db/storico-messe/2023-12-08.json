@@ -1,0 +1,27 @@
+[{ "datamessa": "8 dicembre 2023",
+  "nome": "Immacolata Concezione",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "hai-detto-si"
+  },
+  {
+  "momento": "Signore Pietà",
+  "idcanto": "signore-che-vieni-a-visitare"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Cantate al Signore un canto nuovo perché ha compiuto meraviglie"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "servo-per-amore"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "ave-dolce-maria"
+  }
+]
+}]
