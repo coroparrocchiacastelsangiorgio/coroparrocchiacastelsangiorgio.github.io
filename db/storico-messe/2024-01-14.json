@@ -1,0 +1,27 @@
+[{ "datamessa": "14 gennaio 2024",
+  "nome": "",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "verso-di-te"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Ecco, Signore, io vengo per fare la tua volontà"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "eccomi"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "come-tu-mi-vuoi"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "andate-per-le-strade"
+  }
+]
+}]
