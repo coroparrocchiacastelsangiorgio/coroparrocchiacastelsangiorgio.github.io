@@ -142,6 +142,20 @@
         ]
     },
     {
+        "id": "come-laurora-verrai",
+        "titolo": "Come l'aurora verrai",
+        "tag": [
+            "avvento"
+        ]
+    },
+    {
+        "id": "come-tu-mi-vuoi",
+        "titolo": "Come tu mi vuoi",
+        "tag": [
+            "comunione"
+        ]
+    },
+    {
         "id": "come-un-fiume",
         "titolo": "Come un fiume",
         "tag": [
@@ -326,15 +340,15 @@
         ]
     },
     {
-        "id": "inno-alla-carita",
-        "titolo": "Inno alla Carità",
+        "id": "incontrare-te",
+        "titolo": "Incontrare Te",
         "tag": [
             "comunione"
         ]
     },
     {
-        "id": "incontrare-te",
-        "titolo": "Incontrare Te",
+        "id": "inno-alla-carita",
+        "titolo": "Inno alla Carità",
         "tag": [
             "comunione"
         ]
@@ -365,6 +379,13 @@
         "titolo": "Io vi do un grande esempio",
         "tag": [
             "giovedi"
+        ]
+    },
+    {
+        "id": "isaia-11",
+        "titolo": "Isaia 11",
+        "tag": [
+            "avvento"
         ]
     },
     {
@@ -409,6 +430,13 @@
         "tag": [
             "salmo",
             "pasqua"
+        ]
+    },
+    {
+        "id": "maranatha-vieni-signor",
+        "titolo": "Maranathà vieni Signor",
+        "tag": [
+            "avvento"
         ]
     },
     {
@@ -463,6 +491,13 @@
         "tonalita": "-1 tono"
     },
     {
+        "id": "novena-immacolata",
+        "titolo": "Novena dell'Immacolata",
+        "tag": [
+            "maria"
+        ]
+    },
+    {
         "id": "osanna-all-altissimo",
         "titolo": "Osanna all'Altissimo",
         "tag": [
@@ -495,6 +530,13 @@
         "titolo": "Popoli tutti",
         "tag": [
             "inizio"
+        ]
+    },
+    {
+        "id": "prepariamo-la-via",
+        "titolo": "Prepariamo la via",
+        "tag": [
+            "avvento"
         ]
     },
     {
@@ -616,6 +658,13 @@
         "titolo": "Servire è regnare",
         "tag": [
             "offertorio", "giovedi"
+        ]
+    },
+    {
+        "id": "signore-che-vieni-a-visitare",
+        "titolo": "Signore che vieni a visitare",
+        "tag": [
+            "kyrie"
         ]
     },
     {
