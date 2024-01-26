@@ -75,6 +75,13 @@
         ]
     },
     {
+        "id": "aprite-le-porte-a-cristo",
+        "titolo": "Aprite le porte a Cristo",
+        "tag": [
+            "ingresso"
+        ]
+    },
+    {
         "id": "arderanno-sempre-i-nostri-cuori",
         "titolo": "Arderanno sempre i nostri cuori",
         "tag": [
@@ -119,11 +126,25 @@
         ]
     },
     {
+        "id": "cantiamo-te",
+        "titolo": "Cantiamo Te",
+        "tag": [
+            "inizio"
+        ]
+    },
+    {
         "id": "canto-del-mare-salmo",
         "titolo": "Canto del mare (Salmo Pasquale)",
         "tag": [
             "salmo",
             "pasqua"
+        ]
+    },
+    {
+        "id": "chiamati-per-nome",
+        "titolo": "Chiamati per nome",
+        "tag": [
+            "ingresso"
         ]
     },
     {
@@ -502,6 +523,13 @@
         "titolo": "Novena dell'Immacolata",
         "tag": [
             "maria"
+        ]
+    },
+    {
+        "id": "ogni-mia-parola",
+        "titolo": "Ogni mia parola (Come la pioggia e la neve)",
+        "tag": [
+            ""
         ]
     },
     {
