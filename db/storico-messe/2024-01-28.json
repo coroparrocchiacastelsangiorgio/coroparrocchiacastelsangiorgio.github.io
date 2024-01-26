@@ -1,0 +1,27 @@
+[{ "datamessa": "28 gennaio 2024",
+  "nome": "",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "cantiamo-te"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Ascoltate oggi la voce del Signore"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "frutto-della-nostra-terra"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "pane-di-vita-sei"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "luce"
+  }
+]
+}]

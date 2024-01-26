@@ -1,0 +1,27 @@
+[{ "datamessa": "2 febbraio 2024",
+  "nome": "Candelora",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "il-signore-e-la-luce"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Vieni Signore nel tuo tempio santo"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "ecco-quel-che-abbiamo"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "la-vera-luce"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "le-tue-meraviglie"
+  }
+]
+}]
