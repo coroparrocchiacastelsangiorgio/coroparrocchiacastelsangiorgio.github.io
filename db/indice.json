@@ -333,6 +333,13 @@
         ]
     },
     {
+        "id": "hai-detto-si",
+        "titolo": "Hai detto sì",
+        "tag": [
+            "maria"
+        ]
+    },
+    {
         "id": "il-nostro-cuore-offriamo-a-te",
         "titolo": "Il nostro cuore offriamo a Te",
         "tag": [
@@ -414,6 +421,13 @@
         "titolo": "Isaia 11",
         "tag": [
             "avvento"
+        ]
+    },
+    {
+        "id": "la-mia-preghiera-elevo-a-te",
+        "titolo": "La mia preghiera elevo a Te",
+        "tag": [
+            "comunione"
         ]
     },
     {

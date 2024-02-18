@@ -1,0 +1,27 @@
+[{ "datamessa": "18 febbraio 2024",
+  "nome": "I domenica di Quaresima",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "guidati-nel-deserto"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Tutti i sentieri del Signore sono amore e fedeltà"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "antica-eterna-danza"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "la-mia-preghiera-elevo-a-te"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "hai-detto-si"
+  }
+]
+}]
