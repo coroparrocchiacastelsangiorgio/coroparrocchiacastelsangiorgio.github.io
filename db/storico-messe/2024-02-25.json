@@ -1,0 +1,27 @@
+[{ "datamessa": "25 febbraio 2024",
+  "nome": "II domenica di Quaresima",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "come-grande-il-tuo-amore"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Camminerò alla presenza del Signore nella terra dei viventi"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "davanti-a-te"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "le-tende"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "e-tempo-di-grazia"
+  }
+]
+}]
