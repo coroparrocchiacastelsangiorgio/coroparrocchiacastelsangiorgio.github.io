@@ -233,6 +233,13 @@
         ]
     },
     {
+        "id": "davanti-a-te",
+        "titolo": "Davanti a Te",
+        "tag": [
+            "offertorio"
+        ]
+    },
+    {
         "id": "dio-ha-tanto-amato-il-mondo",
         "titolo": "Dio ha tanto amato il mondo",
         "tag": [
@@ -251,6 +258,13 @@
         "titolo": "È giunta l'ora",
         "tag": [
             "giovedi"
+        ]
+    },
+    {
+        "id": "e-tempo-di-grazia",
+        "titolo": "È tempo di grazia",
+        "tag": [
+            "quaresima"
         ]
     },
     {
