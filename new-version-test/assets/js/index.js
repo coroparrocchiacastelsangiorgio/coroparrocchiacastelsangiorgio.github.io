@@ -39,11 +39,14 @@ function mostraCantiDelGiorno() {
                 //container.querySelector(".sottotitolo-messa").textContent = messa.sottotitolo;
                 // popola momenti e canti
                 let accordion = container.querySelector(".accordion");
-                let accordionItem = accordion.querySelector(".accordion-item");
+                let accordionItem = accordion.querySelector("#canto-container-0");
                 // aggiungi tanti accordion-item quanti sono i canti
                 for (let j = 1; j < messa.scaletta.length; j++) {
                     let nuovoAccordionItem = accordionItem.cloneNode(true);
-                    // TODO set id faq-content-1 to n
+                    nuovoAccordionItem.id = "canto-container-" + j;
+                    nuovoAccordionItem.querySelector(".accordion-button").setAttribute("data-bs-target", "#faq-content-"+j);
+                    nuovoAccordionItem.querySelector(".num").id ="num"+j;
+                    nuovoAccordionItem.querySelector(".accordion-collapse").id = "faq-content-"+j;
                     accordion.appendChild(nuovoAccordionItem);
                 }
                 // popola canti
@@ -51,14 +54,14 @@ function mostraCantiDelGiorno() {
                     let datiMomento = messa.scaletta[j];
                     let accordionMomento = accordion.querySelectorAll(".accordion-item")[j];
                     console.log(accordionMomento);
-                    accordionMomento.querySelector(".nome-momento").textContent = datiMomento.momento;
+                    accordionMomento.querySelector(".num").textContent = datiMomento.momento;
                     if ("idcanto" in datiMomento) {
                         popolaTitoloCanto(i, j, datiMomento.idcanto);
                         popolaTestoCanto(i, j, datiMomento.idcanto);
                     }
                     if ("testocanto" in datiMomento) {
                         console.log("salmo");
-                        accordionMomento.querySelector(".testo-canto").innerHTML = datiMomento.testocanto;
+                        accordionMomento.querySelector(".accordion-body").innerHTML = datiMomento.testocanto;
                     }
                 }
             }
@@ -89,7 +92,7 @@ function popolaTitoloCanto(iMessa, jCanto, idCanto) {
                 return canto.id == idCanto;
             });
             let dapopolare = document.querySelectorAll(".accordion")[iMessa].querySelectorAll(".accordion-item")[jCanto];
-            dapopolare.querySelector(".titolo-canto").textContent = metadatijson.titolo;
+            dapopolare.querySelector(".num").textContent = metadatijson.titolo;
         }
     };
     xhr.send();
@@ -103,7 +106,7 @@ function popolaTestoCanto(iMessa, jCanto, idCanto) {
         let status = xhr.status;
         if (status == 200) {
             let dapopolare = document.querySelectorAll(".accordion")[iMessa].querySelectorAll(".accordion-item")[jCanto];
-            dapopolare.querySelector(".testo-canto").innerHTML = xhr.response;
+            dapopolare.querySelector(".accordion-body").innerHTML = xhr.response;
         }
     };
     xhr.send();
