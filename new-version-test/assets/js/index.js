@@ -38,7 +38,6 @@ function mostraCantiDelGiorno() {
                     nuovoAccordionItem.querySelector(".num").id ="num" + i + "-" + j;
                     nuovoAccordionItem.querySelector(".tit").id ="tit" + i + "-" + j;
                     nuovoAccordionItem.querySelector(".accordion-collapse").id = "faq-content-" + i + "-" + j;
-                    nuovoAccordionItem.querySelector(".accordion-collapse").setAttribute("data-bs-parent", "#faqlist-"+i);
                     accordion.appendChild(nuovoAccordionItem);
                 }
                 // elimina il canto container usato come base per la clonazione
