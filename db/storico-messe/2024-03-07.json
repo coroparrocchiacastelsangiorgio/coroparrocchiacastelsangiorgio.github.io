@@ -1,0 +1,35 @@
+[{ "datamessa": "7 marzo 2024",
+  "nome": "25 anniversario Seminario",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "aprite-le-porte-a-cristo"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Non lo cantiamo"
+  },
+  {
+    "momento": "Acclamazione al Vangelo",
+    "testocanto": "Lode a Te o Cristo, Re di eterna gloria!"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "con-questo-pane-con-questo-vino"
+  },
+  {
+    "momento": "Agnello di Dio",
+    "idcanto": "agnello-di-dio-miserere-nobis"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "vero-cibo"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "hai-detto-si"
+  }
+]
+}]

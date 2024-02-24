@@ -453,7 +453,7 @@
     },
     {
         "id": "le-tende",
-        "titolo": "Le tende",
+        "titolo": "Le tende (Signore com'è bello)",
         "tag": [
             "quaresima"
         ]
@@ -812,6 +812,13 @@
         "titolo": "Ti seguirò",
         "tag": [
             "defunti"
+        ]
+    },
+    {
+        "id": "vero-cibo",
+        "titolo": "Vero cibo",
+        "tag": [
+            "comunione"
         ]
     },
     {
