@@ -21,8 +21,8 @@
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -172,7 +172,11 @@
       </div>
     </section><!-- End Testimonials Section -->
 
+    <section id="canti">
+      <span> </span>
+    </section>
 
+    <!-- TODO dovranno esserci diverse sezioni con diversi id? oppure si ripetono i container? check script index -->
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq-section" class="faq">
       <div class="container">
@@ -181,27 +185,27 @@
 
           <div class="col-lg-4">
             <div class="content px-xl-5">
-              <h3 class="data-messa">Domenica <strong>3 dicembre</strong> 2023</h3>
+              <h3 class="data-messa"> <strong></strong> </h3>
               <h2 class="nome-messa">
-                Festa di Cristo Re
+
               </h2>
             </div>
           </div>
 
           <div class="col-lg-8">
 
-            <div class="accordion accordion-flush" id="faqlist" data-aos-delay="100">
+            <div class="accordion accordion-flush" id="faqlist-0" data-aos-delay="100">
 
               <div id="canto-container-0" class="accordion-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-0">
-                    <span id="num-0" class="num">Momento</span>
-                    Titolo
+                    <span id="num-0" class="num"> </span>
+                    <span id="tit-0" class="tit"> </span>
                   </button>
                 </h3>
-                <div id="faq-content-0" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                <div id="faq-content-0" class="accordion-collapse collapse" data-bs-parent="#faqlist-0">
                   <div class="accordion-body">
-                    Testo
+
                   </div>
                 </div>
               </div><!-- # Faq item-->
@@ -217,7 +221,7 @@
     <!-- ======= Call To Action Section ======= -->
     <section id="call-to-action2" class="call-to-action2">
       <div class="container text-center">
-        <a class="cta-btn" href="link-liturgia">Liturgia del Giorno</a>
+        <a class="cta-btn link-liturgia">Liturgia del Giorno</a>
       </div>
     </section><!-- End Call To Action Section -->
 
@@ -243,10 +247,26 @@
 
   <div id="preloader"></div>
 
+
+  <!-- Custom Scripts -->
+  <script type='text/javascript' >
+    var today;
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.has('data')) {
+      today = new Date(urlParams.get('data'));
+    }
+    else {
+      today = new Date();
+    }
+    window.glob = today;
+  </script>
+
+  <script src="assets/js/index.js"></script>
+
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
@@ -259,8 +279,6 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
-  <script src="assets/js/index.js"></script>
 
 </body>
 

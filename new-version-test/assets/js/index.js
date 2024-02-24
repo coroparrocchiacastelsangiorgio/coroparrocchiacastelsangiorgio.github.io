@@ -3,72 +3,72 @@ document.addEventListener('DOMContentLoaded', mostraCantiDelGiorno);
 function mostraCantiDelGiorno() {
     // inizializzazione
     let messaTrovata = false;
-    // TODO
-    // setta dataMessa = data di oggi
-    let dataMessa = "2024-01-28";
-    // get data del giorno
-    const urlParams = new URLSearchParams(window.location.search);
-    if (urlParams.has('data')) {
-        dataMessa = urlParams.get('data');
-    }
-    console.log(dataMessa);
-    // setta il calendario su quella data
-    // TODO
+    let dataMessa = formatData(window.glob);
     // setta il link alla liturgia del giorno
-    // TODO
-    // container.querySelector(".link-liturgia").href += formatdatamessaperliturgia(datamessa);
+    document.querySelector(".link-liturgia").setAttribute("href","https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=" + formatDataMessaPerLiturgia(dataMessa));
     // recupera messa dal db
     fetch("https://coroparrocchiacastelsangiorgio.github.io/db/storico-messe/" + dataMessa + ".json")
         .then(responseMessa => responseMessa.text())
         .then(datiMessa => {
             messaTrovata = true;
-            let elencoMesse = JSON.parse(datiMessa);
-            let sectionMessa = document.querySelector("#faq-section");
-            // se ci sono più messe in un giorno, clona il container
-            for (let i = 1; i < elencoMesse.length; i++) {
-                let container = sectionMessa.querySelector(".container");
-                let nuovoContainer = container.cloneNode(true);
-                sectionMessa.appendChild(nuovoContainer);
-            }
-            // carica dati della messa
-            for (let i = 0; i < elencoMesse.length; i++) {
-                let container = sectionMessa.querySelectorAll(".container")[i];
-                let messa = elencoMesse[i];
-                container.querySelector(".data-messa").textContent = messa.datamessa;
-                container.querySelector(".nome-messa").textContent = messa.nome;
-                //container.querySelector(".sottotitolo-messa").textContent = messa.sottotitolo;
-                // popola momenti e canti
-                let accordion = container.querySelector(".accordion");
-                let accordionItem = accordion.querySelector("#canto-container-0");
-                // aggiungi tanti accordion-item quanti sono i canti
-                for (let j = 1; j < messa.scaletta.length; j++) {
-                    let nuovoAccordionItem = accordionItem.cloneNode(true);
-                    nuovoAccordionItem.id = "canto-container-" + j;
-                    nuovoAccordionItem.querySelector(".accordion-button").setAttribute("data-bs-target", "#faq-content-"+j);
-                    nuovoAccordionItem.querySelector(".num").id ="num"+j;
-                    nuovoAccordionItem.querySelector(".accordion-collapse").id = "faq-content-"+j;
-                    accordion.appendChild(nuovoAccordionItem);
+            try {
+                let elencoMesse = JSON.parse(datiMessa);
+                let sectionMessa = document.querySelector("#faq-section");
+                // se ci sono più messe in un giorno, clona il container
+                for (let i = 1; i < elencoMesse.length; i++) {
+                    let container = sectionMessa.querySelector(".container");
+                    let nuovoContainer = container.cloneNode(true);
+                    sectionMessa.appendChild(nuovoContainer);
                 }
-                // popola canti
-                for (let j = 0; j < messa.scaletta.length; j++) {
-                    let datiMomento = messa.scaletta[j];
-                    let accordionMomento = accordion.querySelectorAll(".accordion-item")[j];
-                    console.log(accordionMomento);
-                    accordionMomento.querySelector(".num").textContent = datiMomento.momento;
-                    if ("idcanto" in datiMomento) {
-                        popolaTitoloCanto(i, j, datiMomento.idcanto);
-                        popolaTestoCanto(i, j, datiMomento.idcanto);
+                // carica dati della messa
+                for (let i = 0; i < elencoMesse.length; i++) {
+                    let container = sectionMessa.querySelectorAll(".container")[i];
+                    let messa = elencoMesse[i];
+                    container.querySelector(".data-messa").textContent = messa.datamessa;
+                    container.querySelector(".nome-messa").textContent = messa.nome;
+                    //container.querySelector(".sottotitolo-messa").textContent = messa.sottotitolo;
+                    // popola momenti e canti
+                    let accordion = container.querySelector(".accordion");
+                    accordion.id = "faqlist-" + i;
+                    let accordionItem = accordion.querySelector("#canto-container-0");
+                    // aggiungi tanti accordion-item quanti sono i canti
+                    for (let j = 1; j < messa.scaletta.length; j++) {
+                        let nuovoAccordionItem = accordionItem.cloneNode(true);
+                        nuovoAccordionItem.id = "canto-container-" + j;
+                        nuovoAccordionItem.querySelector(".accordion-button").setAttribute("data-bs-target", "#faq-content-"+j);
+                        nuovoAccordionItem.querySelector(".num").id ="num"+j;
+                        nuovoAccordionItem.querySelector(".tit").id ="tit"+j;
+                        nuovoAccordionItem.querySelector(".accordion-collapse").id = "faq-content-"+j;
+                        nuovoAccordionItem.querySelector(".accordion-collapse").setAttribute("data-bs-parent", "#faqlist-"+i);
+                        accordion.appendChild(nuovoAccordionItem);
                     }
-                    if ("testocanto" in datiMomento) {
-                        console.log("salmo");
-                        accordionMomento.querySelector(".accordion-body").innerHTML = datiMomento.testocanto;
+                    // popola canti
+                    for (let j = 0; j < messa.scaletta.length; j++) {
+                        let datiMomento = messa.scaletta[j];
+                        let accordionMomento = accordion.querySelectorAll(".accordion-item")[j];
+                        accordionMomento.querySelector(".num").textContent = datiMomento.momento;
+                        if ("idcanto" in datiMomento) {
+                            popolaTitoloCanto(i, j, datiMomento.idcanto);
+                            popolaTestoCanto(i, j, datiMomento.idcanto);
+                        }
+                        if ("testocanto" in datiMomento) {
+                            accordionMomento.querySelector(".tit").textContent = datiMomento.testocanto;
+                            bottoneDaDisabilitare = accordionMomento.querySelector(".accordion-button");
+                            bottoneDaDisabilitare.removeAttribute("type");
+                            bottoneDaDisabilitare.removeAttribute("data-bs-toggle");
+                            bottoneDaDisabilitare.removeAttribute("data-bs-target");
+                            bottoneDaDisabilitare.style.pointerEvents = "none";
+                        }
                     }
+                }
+            }
+            catch (err) {
+                if (!messaTrovata) {
+                    // TODO informare l'utente che non ci sono messe caricate
+                    console.log("Messa non trovata per data: " + dataMessa);
                 }
             }
         });
-    if (!messaTrovata) {
-        // TODO informare l'utente che non ci sono messe caricate
-    }
 }
 
 function formatDataMessaPerLiturgia(dataMessa) {
@@ -92,7 +92,7 @@ function popolaTitoloCanto(iMessa, jCanto, idCanto) {
                 return canto.id == idCanto;
             });
             let dapopolare = document.querySelectorAll(".accordion")[iMessa].querySelectorAll(".accordion-item")[jCanto];
-            dapopolare.querySelector(".num").textContent = metadatijson.titolo;
+            dapopolare.querySelector(".tit").textContent = metadatijson.titolo;
         }
     };
     xhr.send();
@@ -112,3 +112,15 @@ function popolaTestoCanto(iMessa, jCanto, idCanto) {
     xhr.send();
 }
 
+
+function formatData(dataOdierna) {
+    let dataMessa;
+    // get data richiesta
+    let dayOdierno = dataOdierna.getDate();
+    if (dayOdierno < 10) dayOdierno = "0" +dayOdierno;
+    let monthOdierno = dataOdierna.getMonth() + 1;
+    if (monthOdierno < 10) monthOdierno = "0" +monthOdierno;
+    let yearOdierno = dataOdierna.getFullYear();
+    dataMessa = `${yearOdierno}-${monthOdierno}-${dayOdierno}`;
+    return dataMessa;
+}

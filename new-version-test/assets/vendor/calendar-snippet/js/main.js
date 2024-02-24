@@ -3,8 +3,8 @@
 	"use strict";
 
 	document.addEventListener('DOMContentLoaded', function(){
-    var today = new Date(),
-        year = today.getFullYear(),
+        var today = window.glob;
+    var year = today.getFullYear(),
         month = today.getMonth(),
         monthTag =["Gennaio","Febbraio","Marzo","Aprile","Maggio","Giugno","Luglio","Agosto","Settembre","Ottobre","Novembre","Dicembre"],
         day = today.getDate(),
@@ -93,7 +93,10 @@
         selectedDay = new Date(year, month, o.innerHTML);
         this.drawHeader(o.innerHTML);
         this.setCookie('selected_day', 1);
-        
+        window.glob = selectedDay;
+        window.location.href = "index.html#canti";
+        window.location.search = "data="+ formatData(window.glob);
+        //mostraCantiDelGiorno();
     };
     
     Calendar.prototype.preMonth = function() {
