@@ -1603,6 +1603,10 @@ section {
   padding-bottom: 60px;
 }
 
+.faq .container {
+  padding-bottom: 60px;
+}
+
 .faq .content h3 {
   font-weight: 400;
   font-size: 34px;
