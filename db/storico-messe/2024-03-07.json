@@ -9,7 +9,7 @@
   },
   {
     "momento": "Salmo",
-    "testocanto": "Non lo cantiamo"
+    "testocanto": "Ascoltate oggi la voce del Signore, non indurite il vostro cuore"
   },
   {
     "momento": "Acclamazione al Vangelo",
@@ -26,6 +26,10 @@
   {
     "momento": "Comunione",
     "idcanto": "vero-cibo"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "la-mia-preghiera-elevo-a-te"
   },
   {
     "momento": "Fine",
