@@ -1,0 +1,27 @@
+[{ "datamessa": "10 marzo 2024",
+  "nome": "IV domenica di Quaresima",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "come-grande-il-tuo-amore"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Il ricordo di Te, Signore, è la nostra gioia"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "segni-del-tuo-amore"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "la-vera-luce"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "e-tempo-di-grazia"
+  }
+]
+}]
