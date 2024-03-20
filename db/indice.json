@@ -473,13 +473,6 @@
         ]
     },
     {
-        "id": "li-amo-fino-alla-fine",
-        "titolo": "Li amò fino alla fine (Non c'è amore più grande)",
-        "tag": [
-            "quaresima", "pasqua"
-        ]
-    },
-    {
         "id": "luce",
         "titolo": "Luce",
         "tag": [
@@ -549,6 +542,13 @@
         "titolo": "Nella tua presenza",
         "tag": [
             "offertorio"
+        ]
+    },
+    {
+        "id": "non-ce-amore-piu-grande",
+        "titolo": "Non c'è amore più grande",
+        "tag": [
+            "quaresima", "pasqua", "giovedi"
         ]
     },
     {
