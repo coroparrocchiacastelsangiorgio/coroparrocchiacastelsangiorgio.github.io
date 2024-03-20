@@ -333,6 +333,13 @@
         "tonalita": "-1 tono"
     },
     {
+        "id": "gloria-gloria-gloria-a-dio",
+        "titolo": "Gloria",
+        "tag": [
+            "gloria"
+        ]
+    },
+    {
         "id": "grida-forte-il-mio-nome",
         "titolo": "Grida forte il mio nome",
         "tag": [
@@ -463,6 +470,13 @@
         "titolo": "Le tue Meraviglie",
         "tag": [
             "fine"
+        ]
+    },
+    {
+        "id": "li-amo-fino-alla-fine",
+        "titolo": "Li amò fino alla fine (Non c'è amore più grande)",
+        "tag": [
+            "quaresima", "pasqua"
         ]
     },
     {
