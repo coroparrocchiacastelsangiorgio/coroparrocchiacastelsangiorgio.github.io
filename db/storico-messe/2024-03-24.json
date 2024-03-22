@@ -1,0 +1,27 @@
+[{ "datamessa": "24 marzo 2024",
+  "nome": "Domenica delle Palme",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "osanna-all-altissimo"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Dio mio, Dio mio, perché mi hai abbandonato?"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "antica-eterna-danza"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "gesu-ricordati-di-me"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "come-grande-il-tuo-amore"
+  }
+]
+}]
