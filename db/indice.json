@@ -481,6 +481,14 @@
         ]
     },
     {
+        "id": "madre-io-vorrei",
+        "titolo": "Madre io vorrei",
+        "tag": [
+            "quaresima",
+            "maria"
+        ]
+    },
+    {
         "id": "manda-il-tuo-spirito",
         "titolo": "Manda il Tuo Spirito (Canto, non salmo)",
         "tag": [
@@ -621,6 +629,13 @@
         "titolo": "Prodigio d'amore",
         "tag": [
             "spirito"
+        ]
+    },
+    {
+        "id": "proteggimi-o-dio-salmo",
+        "titolo": "Proteggimi o Dio (Salmo Pasquale)",
+        "tag": [
+            "salmo"
         ]
     },
     {

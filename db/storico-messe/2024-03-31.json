@@ -1,0 +1,39 @@
+[{ "datamessa": "31 marzo 2024",
+  "nome": "Pasqua",
+  "sottotitolo": "Messa del Mattino",
+  "scaletta":
+  [
+  {
+    "momento": "Inizio",
+    "idcanto": "cristo-e-risorto-veramente"
+  },
+  {
+    "momento": "Signore Pietà",
+    "idcanto": "signore-non-disprezzi"
+  },
+    {
+      "momento": "Gloria",
+      "idcanto": "gloria-frisina"
+    },
+  {
+    "momento": "Salmo",
+    "testocanto": "questo-e-il-giorno-di-cristo-signore-salmo"
+  },
+    {
+      "momento": "Offertorio",
+      "idcanto": "nel-tuo-silenzio"
+    },
+  {
+    "momento": "Agnello di Dio",
+    "idcanto": "agnello-di-dio-miserere-nobis"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "resto-con-te"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "resurrezione"
+  }
+]
+}]

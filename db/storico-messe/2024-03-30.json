@@ -4,15 +4,19 @@
   "scaletta":
 [
   {
-    "momento": "Salmo I",
+    "momento": "Salmo I (Giulia)",
     "idcanto": "manda-il-tuo-spirito-signore-salmo"
   },
   {
-    "momento": "Salmo II",
+    "momento": "Salmo II (Serena)",
+    "idcanto": "proteggimi-o-dio-salmo"
+  },
+  {
+    "momento": "Salmo III (Alfonso e Giulia)",
     "idcanto": "canto-del-mare-salmo"
   },
   {
-    "momento": "Salmo III",
+    "momento": "Salmo VII (Alfonso)",
     "idcanto": "attingeremo-con-gioia-salmo"
   },
   {

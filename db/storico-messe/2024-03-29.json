@@ -1,0 +1,35 @@
+[{ "datamessa": "29 marzo 2024",
+  "nome": "Venerdì Santo",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Adorazione",
+    "idcanto": "nella-memoria-ecco-luomo"
+  },
+  {
+    "momento": "Adorazione",
+    "idcanto": "ti-saluto-croce-santa"
+  },
+  {
+    "momento": "Adorazione",
+    "idcanto": "vi-consolero"
+  },
+  {
+    "momento": "Adorazione",
+    "idcanto": "ti-seguiro"
+  },
+  {
+    "momento": "Adorazione",
+    "idcanto": "davanti-a-questo-amore"
+  },
+  {
+    "momento": "Adorazione",
+    "idcanto": "mi-arrendo-al-tuo-amore"
+  },
+  {
+    "momento": "Adorazione",
+    "idcanto": "madre-io-vorrei"
+  }
+]
+}]
