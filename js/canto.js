@@ -13,6 +13,7 @@ function mostracanto() {
                     return canto.id == id;
                 });
                 // popola i metadati
+                document.title = metadatijson.titolo;
                 h1 = document.getElementById("titolo");
                 h1.textContent = metadatijson.titolo;
                 tagtext = "(";

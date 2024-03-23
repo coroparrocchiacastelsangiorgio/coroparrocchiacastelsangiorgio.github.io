@@ -25,6 +25,7 @@ function caricamessadelgiorno() {
                 for (i = 0; i < elencomesse.length; i++) {
                     divmessa = divmesse.querySelectorAll(".messa-div")[i];
                     messa = elencomesse[i];
+                    document.title = messa.datamessa;
                     divmessa.querySelector(".data-messa").textContent = messa.datamessa;
                     divmessa.querySelector(".nome-messa").textContent = messa.nome;
                     divmessa.querySelector(".sottotitolo-messa").textContent = messa.sottotitolo;
