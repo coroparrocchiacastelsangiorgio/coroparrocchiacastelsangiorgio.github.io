@@ -240,10 +240,24 @@
         ]
     },
     {
+        "id": "dell-aurora",
+        "titolo": "Dell'aurora",
+        "tag": [
+            "maria"
+        ]
+    },
+    {
         "id": "dio-ha-tanto-amato-il-mondo",
         "titolo": "Dio ha tanto amato il mondo",
         "tag": [
             "quaresima", "giovedi", "pasqua"
+        ]
+    },
+    {
+        "id": "dove-carita-e-amore",
+        "titolo": "Dov'è carità e amore",
+        "tag": [
+
         ]
     },
     {
@@ -686,6 +700,13 @@
         "titolo": "Re di gloria",
         "tag": [
             "re"
+        ]
+    },
+    {
+        "id": "regina-coeli",
+        "titolo": "Regina coeli",
+        "tag": [
+            "maria"
         ]
     },
     {

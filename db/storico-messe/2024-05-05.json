@@ -1,0 +1,31 @@
+[{ "datamessa": "5 maggio 2024",
+  "nome": "",
+  "sottotitolo": "",
+  "scaletta":
+  [
+  {
+    "momento": "Inizio",
+    "idcanto": "cantiamo-te"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Il Signore ha rivelato ai popoli la sua giustizia"
+  },
+    {
+      "momento": "Offertorio",
+      "idcanto": "dove-carita-e-amore"
+    },
+  {
+    "momento": "Comunione",
+    "idcanto": "dio-ha-tanto-amato-il-mondo"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "regina-coeli"
+  },
+    {
+      "momento": "Fine",
+      "idcanto": "dell-aurora"
+    }
+]
+}]
