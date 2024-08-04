@@ -1,0 +1,27 @@
+[{ "datamessa": "4 agosto 2024",
+  "nome": "",
+  "sottotitolo": "",
+  "scaletta":
+  [
+  {
+    "momento": "Inizio",
+    "idcanto": "grandi-cose"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Donaci Signore il pane del cielo"
+  },
+    {
+      "momento": "Offertorio",
+      "idcanto": "frutto-della-nostra-terra"
+    },
+  {
+    "momento": "Comunione",
+    "idcanto": "pane-del-cielo"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "andate-per-le-strade"
+  }
+]
+}]
