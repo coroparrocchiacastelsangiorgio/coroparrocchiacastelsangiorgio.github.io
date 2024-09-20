@@ -16,12 +16,11 @@ function mostracanto() {
                 document.title = metadatijson.titolo;
                 h1 = document.getElementById("titolo");
                 h1.textContent = metadatijson.titolo;
-                tagtext = "(";
+                tagtext = "Canto adatto per: ";
                 metadatijson.tag.forEach(ttext => {
                     tagtext = tagtext + ttext + ", ";
                 });
                 tagtext = tagtext.substring(0, tagtext.length - 2);
-                tagtext = tagtext + ")"
                 tag = document.getElementById("tag");
                 tag.textContent = tagtext;
             });
