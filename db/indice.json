@@ -354,6 +354,13 @@
         ]
     },
     {
+        "id": "grandi-cose",
+        "titolo": "Grandi cose",
+        "tag": [
+            "ingresso"
+        ]
+    },
+    {
         "id": "grida-forte-il-mio-nome",
         "titolo": "Grida forte il mio nome",
         "tag": [
@@ -629,6 +636,13 @@
         "titolo": "Padre mio",
         "tag": [
             "inizio", "ceneri", "defunti"
+        ]
+    },
+    {
+        "id": "pane-del-cielo",
+        "titolo": "Pane del cielo",
+        "tag": [
+            "comunione"
         ]
     },
     {
