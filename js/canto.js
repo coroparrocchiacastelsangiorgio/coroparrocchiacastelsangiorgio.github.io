@@ -18,7 +18,7 @@ function mostracanto() {
                 h1.textContent = metadatijson.titolo;
                 tagtext = "Canto adatto per: ";
                 metadatijson.tag.forEach(ttext => {
-                    tagtext = tagtext + ttext + ", ";
+                    tagtext = tagtext + ttext.charAt(0).toUpperCase() + ttext.slice(1) + ", ";
                 });
                 tagtext = tagtext.substring(0, tagtext.length - 2);
                 tag = document.getElementById("tag");

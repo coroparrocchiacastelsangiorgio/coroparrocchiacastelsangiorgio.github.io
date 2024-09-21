@@ -1,0 +1,23 @@
+[{ "datamessa": "22 settembre 2024",
+  "nome": "",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "amo"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "servo-per-amore"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "inno-alla-carita"
+  },
+  {
+    "momento": "Fine",
+    "idcanto": "resta-accanto-a-me"
+  }
+]
+}]
