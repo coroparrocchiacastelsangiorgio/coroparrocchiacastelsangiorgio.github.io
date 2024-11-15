@@ -432,6 +432,20 @@
         ]
     },
     {
+        "id": "inno-san-giorgio",
+        "titolo": "Inno a San Giorgio",
+        "tag": [
+            ""
+        ]
+    },
+    {
+        "id": "inno-san-rocco",
+        "titolo": "Inno a San Rocco",
+        "tag": [
+            ""
+        ]
+    },
+    {
         "id": "insieme-a-te",
         "titolo": "Insieme a Te",
         "tag": [
@@ -622,7 +636,7 @@
         "id": "ogni-mia-parola",
         "titolo": "Ogni mia parola (Come la pioggia e la neve)",
         "tag": [
-            ""
+            "offertorio"
         ]
     },
     {
