@@ -1,0 +1,51 @@
+[{ "datamessa": "17 aprile 2025",
+  "nome": "Giovedì Santo",
+  "sottotitolo": "Coena Domini",
+  "scaletta":
+[
+  {
+    "momento": "Inizio",
+    "idcanto": "dio-ha-tanto-amato-il-mondo"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Il tuo calice Signo...re è dono di salve...zza!"
+  },
+  {
+    "momento": "Gloria",
+    "idcanto": "gloria-frisina"
+  },
+  {
+    "momento": "Lavanda dei piedi",
+    "idcanto": "servire-e-regnare"
+  },
+  {
+    "momento": "Lavanda dei piedi",
+    "idcanto": "io-vi-do-un-grande-esempio"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "inno-alla-carita"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "non-ce-amore-piu-grande"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "rimanete-in-me"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "sulla-tua-parola"
+  },
+  {
+    "momento": "Deposizione nell'Altare",
+    "idcanto": "genti-tutte"
+  },
+  {
+    "momento": "Deposizione nell'Altare",
+    "idcanto": "tantum-ergo"
+  }
+]
+}]
