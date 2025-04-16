@@ -1,0 +1,47 @@
+[{ "datamessa": "19 aprile 2025",
+  "nome": "Veglia Pasquale",
+  "sottotitolo": "Notte",
+  "scaletta":
+[
+  {
+    "momento": "Salmo",
+    "testocanto": "Manda il Tuo spirito, Signore, a rinnovare la terra"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Cantiamo al Signore: stupenda è la sua vittoria"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Signore Tu hai parole di vita eterna"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Come la cerva anela ai corsi d'acqua, così l'anima mia anela a Te, o Dio"
+  },
+  {
+    "momento": "Gloria",
+    "idcanto": "gloria-frisina"
+  },
+  {
+    "momento": "Salmo all'Epistola",
+    "testocanto": "Questo è il giorno di Cristo Signore, alleluia, alleluia (x2)"
+  },
+  {
+    "momento": "Aspersione",
+    "idcanto": "come-un-fiume"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "nel-tuo-silenzio"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "resto-con-te"
+  },
+  {
+    "momento": "Finale",
+    "idcanto": "cristo-e-risorto-veramente"
+  }
+]
+}]
