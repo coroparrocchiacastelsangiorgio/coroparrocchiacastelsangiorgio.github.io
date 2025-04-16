@@ -651,6 +651,13 @@
             "quaresima", "pasqua", "giovedi"
         ]
     },
+     {
+        "id": "non-sono-piu-io-che-vivo",
+        "titolo": "Non sono più io che vivo",
+        "tag": [
+            "spirito"
+        ]
+    },
     {
         "id": "nostra-gloria-e-la-croce",
         "titolo": "Nostra gloria è la croce",
