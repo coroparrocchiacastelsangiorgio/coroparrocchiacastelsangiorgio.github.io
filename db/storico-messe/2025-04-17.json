@@ -52,4 +52,40 @@
     "idcanto": "tantum-ergo"
   }
 ]
-}]
+},
+{ "datamessa": "17 aprile 2025",
+  "nome": "Giovedì Santo",
+  "sottotitolo": "Adorazione comunitaria",
+  "scaletta":
+[
+  {
+    "momento": "",
+    "idcanto": "inno-giubileo-2025"
+  },
+  {
+    "momento": "",
+    "idcanto": "ti-seguiro"
+  },
+  {
+    "momento": "",
+    "idcanto": "abbracciami-gesu"
+  },
+  {
+    "momento": "",
+    "idcanto": "nella-tua-presenza"
+  },
+  {
+    "momento": "",
+    "idcanto": "fiumi-di-misericordia"
+  },
+  {
+    "momento": "",
+    "idcanto": "non-sono-piu-io-che-vivo"
+  },
+  {
+    "momento": "",
+    "idcanto": "grida-forte-il-mio-nome"
+  }
+]
+}
+]
