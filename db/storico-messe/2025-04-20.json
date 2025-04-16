@@ -1,0 +1,31 @@
+[{ "datamessa": "20 aprile 2025",
+  "nome": "Pasqua",
+  "sottotitolo": "Mattina",
+  "scaletta":
+[
+  {
+    "momento": "Ingresso",
+    "idcanto": "esulta-il-cielo"
+  },
+  {
+    "momento": "Gloria",
+    "idcanto": "gloria-frisina"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Questo è il giorno di Cristo Signore, alleluia, alleluia (x2)"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "con-lofferta-di-gesu"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "resto-con-te"
+  },
+  {
+    "momento": "Finale",
+    "idcanto": "resurrezione"
+  }
+]
+}]
