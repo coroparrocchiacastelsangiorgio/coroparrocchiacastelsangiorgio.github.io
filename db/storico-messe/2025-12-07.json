@@ -1,0 +1,27 @@
+[{ "datamessa": "7 dicembre 2025",
+  "nome": "II domenica di Avvento",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Ingresso",
+    "idcanto": "re-di-giustizia-e-di-pace"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Vieni, Signore, Re di giustizia e di pace"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "come-maria"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "verrai-signore"
+  },
+  {
+    "momento": "Finale",
+    "idcanto": "prepariamo-la-via"
+  }
+]
+}]

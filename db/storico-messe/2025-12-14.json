@@ -1,0 +1,27 @@
+[{ "datamessa": "14 dicembre 2025",
+  "nome": "III domenica di Avvento",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Ingresso",
+    "idcanto": "vieni-signore-a-salvarci"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Vieni, Signore, a salvarci"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "il-nostro-cuore-offriamo-a-te"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "ora-e-tempo-di-gioia"
+  },
+  {
+    "momento": "Finale",
+    "idcanto": "e-tempo-di-grazia"
+  }
+]
+}]

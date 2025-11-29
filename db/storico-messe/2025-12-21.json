@@ -1,0 +1,27 @@
+[{ "datamessa": "21 dicembre 2025",
+  "nome": "IV domenica di Avvento",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Ingresso",
+    "idcanto": "ecco-viene-il-signore"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Ecco viene il Signore, Re della gloria"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "su-questo-altare"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "prodigio-damore"
+  },
+  {
+    "momento": "Finale",
+    "idcanto": "rallegriamoci"
+  }
+]
+}]

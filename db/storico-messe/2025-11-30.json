@@ -1,0 +1,27 @@
+[{ "datamessa": "30 novembre 2025",
+  "nome": "I domenica di Avvento",
+  "sottotitolo": "",
+  "scaletta":
+[
+  {
+    "momento": "Ingresso",
+    "idcanto": "incontro-al-signore"
+  },
+  {
+    "momento": "Salmo",
+    "testocanto": "Andiamo con gioia incontro al Signore"
+  },
+  {
+    "momento": "Offertorio",
+    "idcanto": "accogli-i-nostri-doni-buttazzo"
+  },
+  {
+    "momento": "Comunione",
+    "idcanto": "come-laurora-verrai"
+  },
+  {
+    "momento": "Finale",
+    "idcanto": "maranatha-vieni-signor"
+  }
+]
+}]

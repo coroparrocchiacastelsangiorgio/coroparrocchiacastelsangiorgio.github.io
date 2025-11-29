@@ -192,6 +192,13 @@
         ]
     },
     {
+        "id": "come-maria",
+        "titolo": "Come Maria",
+        "tag": [
+            "maria", "offertorio"
+        ]
+    },
+    {
         "id": "come-tu-mi-vuoi",
         "titolo": "Come tu mi vuoi",
         "tag": [
@@ -315,6 +322,13 @@
         "titolo": "Ecco quel che abbiamo",
         "tag": [
             "offertorio"
+        ]
+    },
+    {
+        "id": "ecco-viene-il-signore",
+        "titolo": "Ecco viene il Signore",
+        "tag": [
+            "avvento"
         ]
     },
     {
@@ -471,6 +485,13 @@
         "titolo": "Incontrare Te",
         "tag": [
             "comunione"
+        ]
+    },
+    {
+        "id": "incontro-al-signore",
+        "titolo": "Incontro al Signore",
+        "tag": [
+            "avvento"
         ]
     },
     {
@@ -718,6 +739,13 @@
         ]
     },
     {
+        "id": "ora-e-tempo-di-gioia",
+        "titolo": "Ora è tempo di gioia (L'eco torna da antiche valli)",
+        "tag": [
+            "avvento"
+        ]
+    },
+    {
         "id": "osanna-all-altissimo",
         "titolo": "Osanna all'Altissimo",
         "tag": [
@@ -814,6 +842,13 @@
         "titolo": "Rallegriamoci",
         "tag": [
             "natale"
+        ]
+    },
+    {
+        "id": "re-di-giustizia-e-di-pace",
+        "titolo": "Re di giustizia e di pace",
+        "tag": [
+            "re", "avvento"
         ]
     },
     {
@@ -1021,6 +1056,13 @@
         ]
     },
     {
+        "id": "verrai-signore",
+        "titolo": "Verrai Signore",
+        "tag": [
+            "avvento"
+        ]
+    },
+    {
         "id": "verso-di-te",
         "titolo": "Verso di Te",
         "tag": [
@@ -1053,6 +1095,13 @@
         "titolo": "Vieni Santo Spirito di Dio",
         "tag": [
             "spirito"
+        ]
+    },
+    {
+        "id": "vieni-signore-a-salvarci",
+        "titolo": "Vieni Signore a salvarci",
+        "tag": [
+            "avvento"
         ]
     },
     {

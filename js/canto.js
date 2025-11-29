@@ -14,6 +14,14 @@ function mostracanto() {
                 });
                 // popola i metadati
                 document.title = metadatijson.titolo;
+                whmetatitle = document.querySelector('meta[property="og:title"]'); // per condivisione link su Whatsapp
+                    if (!whmetatitle) {
+                        // Se il meta non esiste, lo creo
+                        whmetatitle = document.createElement('meta');
+                        whmetatitle.setAttribute('property', 'og:title');
+                        document.head.appendChild(whmetatitle);
+                    }
+                whmetatitle.setAttribute('content', metadatijson.titolo);
                 h1 = document.getElementById("titolo");
                 h1.textContent = metadatijson.titolo;
                 tagtext = "Canto adatto per: ";
