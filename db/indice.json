@@ -37,6 +37,13 @@
         ]
     },
     {
+        "id": "adeste-fideles-latino",
+        "titolo": "Adeste fideles (Latino)",
+        "tag": [
+            "natale"
+        ]
+    },
+    {
         "id": "adoro-te",
         "titolo": "Adoro Te",
         "tag": [
@@ -830,9 +837,16 @@
     },
     {
         "id": "quando-lo-spirito-vive-in-me",
-        "titolo": "Qaundo lo Spirito vive in me",
+        "titolo": "Quando lo Spirito vive in me",
         "tag": [
             "spirito"
+        ]
+    },
+    {
+        "id": "quanno-nascette-ninno",
+        "titolo": "Quanno nascette Ninno",
+        "tag": [
+            "natale"
         ]
     },
     {
