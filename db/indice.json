@@ -466,6 +466,13 @@
         ]
     },
     {
+        "id": "i-cieli-narrano",
+        "titolo": "I cieli narrano",
+        "tag": [
+            "natale"
+        ]
+    },
+    {
         "id": "il-nostro-cuore-offriamo-a-te",
         "titolo": "Il nostro cuore offriamo a Te",
         "tag": [
@@ -749,6 +756,14 @@
         "titolo": "O Madre Addolorata (Inno Santa Croce)",
         "tag": [
             "maria"
+        ]
+    },
+    {
+        "id": "oggi-e-nato-per-noi-il-salvatore-del-mondo-salmo",
+        "titolo": "Oggi è nato per noi il Salvatore del mondo (salmo Natale)",
+        "tag": [
+            "natale",
+            "salmo"
         ]
     },
     {
