@@ -1159,5 +1159,12 @@
         "tag": [
             "inizio"
         ]
+    },
+    {
+        "id": "vocazione",
+        "titolo": "Vocazione",
+        "tag": [
+            "comunione"
+        ]
     }
 ]
