@@ -480,6 +480,13 @@
         ]
     },
     {
+        "id": "il-mio-respiro",
+        "titolo": "Il mio respiro",
+        "tag": [
+            "quaresima"
+        ]
+    },
+    {
         "id": "il-nostro-cuore-offriamo-a-te",
         "titolo": "Il nostro cuore offriamo a Te",
         "tag": [
@@ -894,6 +901,13 @@
         ]
     },
     {
+        "id": "questo-e-il-tempo",
+        "titolo": "Questo è il tempo",
+        "tag": [
+            "quaresima"
+        ]
+    },
+    {
         "id": "rallegriamoci",
         "titolo": "Rallegriamoci",
         "tag": [
@@ -961,6 +975,13 @@
         "titolo": "Rimanete in me",
         "tag": [
             "pasqua"
+        ]
+    },
+    {
+        "id": "salmo-50-canto",
+        "titolo": "Salmo 50 (canto)",
+        "tag": [
+            "quaresima"
         ]
     },
     {
@@ -1081,6 +1102,13 @@
         "titolo": "Tantum ergo",
         "tag": [
             "adorazione", "giovedi"
+        ]
+    },
+    {
+        "id": "te-al-centro-del-mio-cuore",
+        "titolo": "Te al centro del mio cuore",
+        "tag": [
+            "comunione", "adorazione"
         ]
     },
     {
