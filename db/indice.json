@@ -176,6 +176,20 @@
         ]
     },
     {
+        "id": "canto-dellacqua",
+        "titolo": "Canto dell'acqua",
+        "tag": [
+            "aspersione"
+        ]
+    },
+    {
+        "id": "cerco-solo-te",
+        "titolo": "Cerco solo Te",
+        "tag": [
+            "pasqua"
+        ]
+    },
+    {
         "id": "chiamati-per-nome",
         "titolo": "Chiamati per nome",
         "tag": [
@@ -498,6 +512,13 @@
         "titolo": "Il nostro cuore offriamo a Te",
         "tag": [
             "offertorio"
+        ]
+    },
+    {
+        "id": "il-seme-del-tuo-campo",
+        "titolo": "Il seme del tuo campo",
+        "tag": [
+            "pasqua"
         ]
     },
     {
@@ -832,6 +853,13 @@
     {
         "id": "pane-del-cielo",
         "titolo": "Pane del cielo",
+        "tag": [
+            "comunione"
+        ]
+    },
+    {
+        "id": "pane-di-vita-nuova",
+        "titolo": "Pane di vita nuova",
         "tag": [
             "comunione"
         ]
