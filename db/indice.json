@@ -267,6 +267,13 @@
             "offertorio"
         ]
     },
+{
+        "id": "con-te-camminero",
+        "titolo": "Con Te camminerò",
+        "tag": [
+            "comunione"
+        ]
+    },
     {
         "id": "cristo-e-risorto-veramente",
         "titolo": "Cristo è risorto veramente (Canto, non alleluia)",
@@ -608,13 +615,6 @@
     {
         "id": "insieme-a-te",
         "titolo": "Insieme a Te",
-        "tag": [
-            "comunione"
-        ]
-    },
-{
-        "id": "insieme-a-te-camminero",
-        "titolo": "Insieme a Te camminerò",
         "tag": [
             "comunione"
         ]
