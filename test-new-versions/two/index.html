@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archivio Canti - Home</title>
+    <!-- Collega lo stile esterno -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container-piccolo">
+
+    <header class="header-sito">
+        <h1>🎵 Archivio Canti</h1>
+        <p>Seleziona una celebrazione o consulta l'intero libro</p>
+    </header>
+
+    <main class="box-contenuto">
+        <h2 class="box-titolo">Canti della Messa</h2>
+
+        <div class="campo-form">
+            <label for="data-messa">Scegli la Data</label>
+            <input type="date" id="data-messa" class="input-testo">
+        </div>
+
+        <button class="pulsante-principale">Mostra Canti Celebrazione</button>
+
+        <div id="risultati-messa"></div>
+    </main>
+
+    <div style="text-align: center;">
+        <a href="../one/libro.html" class="link-navigazione">📖 Sfoglia il Libro dei Canti &rarr;</a>
+    </div>
+
+</div>
+</body>
+</html>
