@@ -771,6 +771,13 @@
         ]
     },
     {
+        "id": "mia-gioia-sei",
+        "titolo": "Mia gioia sei",
+        "tag": [
+            "adorazione"
+        ]
+    },
+    {
         "id": "misericordia-sei",
         "titolo": "Misericordia sei",
         "tag": [
@@ -963,6 +970,13 @@
         ]
     },
     {
+        "id": "quando-andremo-su-nel-ciel",
+        "titolo": "Quando andremo su nel ciel",
+        "tag": [
+            "santi"
+        ]
+    },
+    {
         "id": "quando-lo-spirito-vive-in-me",
         "titolo": "Quando lo Spirito vive in me",
         "tag": [
@@ -1073,6 +1087,13 @@
         "titolo": "Salmo 50 (canto)",
         "tag": [
             "quaresima"
+        ]
+    },
+    {
+        "id": "salve-regina-latino",
+        "titolo": "Salve Regina (Latino)",
+        "tag": [
+            "maria"
         ]
     },
     {
